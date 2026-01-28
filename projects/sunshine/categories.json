@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "id": "client",
+      "name": "Streaming Clients",
+      "description": "Applications to stream from your Sunshine host",
+      "icon": "monitor-play"
+    },
+    {
+      "id": "tool",
+      "name": "Companion Tools",
+      "description": "Utilities and tools that enhance your Sunshine experience",
+      "icon": "wrench"
+    }
+  ]
+}

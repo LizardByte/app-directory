@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-android",
+  "name": "Moonlight for Android",
+  "tagline": "GameStream client for Android",
+  "description": "Open source client for NVIDIA GameStream and Sunshine.",
+  "category": "client",
+  "platforms": ["android"],
+  "icon": "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/icon.png",
+  "screenshots": [
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1-pc.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2-settings.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/sevenInchScreenshots/1-pc.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/sevenInchScreenshots/2-settings.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/tenInchScreenshots/1-pc.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/tenInchScreenshots/2-settings.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/tvScreenshots/1-pc.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/tvScreenshots/2-settings.png"
+  ],
+  "links": {
+    "website": "https://moonlight-stream.org/",
+    "github": "https://github.com/moonlight-stream/moonlight-android",
+    "download": "https://play.google.com/store/apps/details?id=com.limelight",
+    "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
+  },
+  "tags": ["streaming", "android", "mobile", "gaming"],
+  "featured": true,
+  "compatibility": {
+    "sunshine": ">=0.1.0"
+  },
+  "metadata": {
+    "license": "GPL-3.0"
+  }
+}

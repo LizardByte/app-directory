@@ -1,0 +1,92 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Featured App Schema",
+  "description": "Schema for featured applications in the LizardByte app directory",
+  "type": "object",
+  "required": ["id", "name", "category", "description", "platforms"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier (e.g., 'moonlight-qt')",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name of the application"
+    },
+    "tagline": {
+      "type": "string",
+      "description": "Short one-liner description"
+    },
+    "description": {
+      "type": "string",
+      "description": "Full description of the application"
+    },
+    "category": {
+      "type": "string",
+      "description": "Category of the application (must match a category ID in the project's categories.json)"
+    },
+    "platforms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["windows", "macos", "linux", "android", "ios", "web"]
+      },
+      "minItems": 1
+    },
+    "icon": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to app icon (PNG, 512x512 recommended)"
+    },
+    "screenshots": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
+      "description": "URLs to screenshots"
+    },
+    "links": {
+      "type": "object",
+      "properties": {
+        "website": {
+          "type": "string",
+          "format": "uri"
+        },
+        "github": {
+          "type": "string",
+          "format": "uri"
+        },
+        "download": {
+          "type": "string",
+          "format": "uri"
+        },
+        "documentation": {
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Searchable tags"
+    },
+    "featured": {
+      "type": "boolean",
+      "description": "Whether to highlight this app"
+    },
+    "compatibility": {
+      "type": "object",
+      "properties": {
+        "sunshine": {
+          "type": "string",
+          "description": "Compatible Sunshine versions (semver range)"
+        }
+      }
+    }
+  }
+}

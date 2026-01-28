@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Categories Schema",
+  "description": "Schema for project-specific category definitions",
+  "type": "object",
+  "required": ["categories"],
+  "properties": {
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "description"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Unique category identifier",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "name": {
+            "type": "string",
+            "description": "Display name of the category"
+          },
+          "description": {
+            "type": "string",
+            "description": "Description of what this category contains"
+          },
+          "icon": {
+            "type": "string",
+            "description": "Lucide icon name (e.g., 'monitor-play', 'wrench', 'plug'). See https://lucide.dev/icons/",
+            "pattern": "^[a-z0-9-]+$"
+          }
+        }
+      }
+    }
+  }
+}

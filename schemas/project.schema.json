@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Project Configuration Schema",
+  "description": "Schema for project-specific configuration",
+  "type": "object",
+  "required": ["id", "name"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique project identifier",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name of the project"
+    },
+    "description": {
+      "type": "string",
+      "description": "Project description"
+    },
+    "featured_categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of category IDs to display for this project"
+    },
+    "exclude_apps": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of app IDs to exclude for this project"
+    },
+    "include_only": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "If specified, only include these app IDs for this project"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "id": "sunshine",
+  "name": "Sunshine",
+  "description": "Self-hosted game stream host for Moonlight.",
+  "featured_categories": ["client", "tool", "integration"]
+}

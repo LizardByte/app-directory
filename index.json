@@ -1,17 +1,51 @@
 {
   "version": "0.1.0",
-  "updated": "2026-01-28T19:26:03.678Z",
+  "updated": "2026-01-28T19:50:23.115Z",
   "apps": [
+    {
+      "id": "moonlight-embedded",
+      "name": "Moonlight Embedded",
+      "tagline": "Gamestream client for embedded systems",
+      "description": "Open source client for Sunshine and NVIDIA GameStream for embedded Linux systems, like Raspberry Pi, CuBox-i and ODROID.",
+      "category": "client",
+      "platforms": [
+        "linux"
+      ],
+      "icon": "https://github.com/moonlight-stream.png",
+      "links": {
+        "website": "https://moonlight-stream.org/",
+        "github": "https://github.com/moonlight-stream/moonlight-embedded",
+        "download": "https://github.com/moonlight-stream/moonlight-embedded/wiki/Packages",
+        "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
+      },
+      "tags": [
+        "streaming",
+        "gamestream",
+        "client",
+        "gaming"
+      ],
+      "featured": true,
+      "compatibility": {
+        "sunshine": ">=0.1.0"
+      },
+      "github": {
+        "stars": 1604,
+        "openIssues": 113,
+        "forks": 356,
+        "lastUpdated": "2026-01-24T17:27:33Z",
+        "license": "GPL-3.0"
+      }
+    },
     {
       "id": "moonlight-android",
       "name": "Moonlight for Android",
       "tagline": "GameStream client for Android",
-      "description": "Open source client for NVIDIA GameStream and Sunshine.",
+      "description": "Open source client for Sunshine and NVIDIA GameStream.",
       "category": "client",
       "platforms": [
         "android"
       ],
-      "icon": "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/icon.png",
+      "icon": "https://github.com/moonlight-stream.png",
       "screenshots": [
         "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1-pc.png",
         "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2-settings.png",
@@ -47,17 +81,64 @@
       }
     },
     {
+      "id": "moonlight-ios",
+      "name": "Moonlight iOS/tvOS",
+      "tagline": "GameStream client for iOS/tvOS",
+      "description": "Open source client for Sunshine and NVIDIA GameStream.",
+      "category": "client",
+      "platforms": [
+        "ios"
+      ],
+      "icon": "https://github.com/moonlight-stream.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20Apple%20TV%204K%20-%202019-09-22%20at%2021.14.05.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20Apple%20TV%204K%20-%202019-09-22%20at%2021.14.56.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(2nd%20generation)%20-%202018-06-17%20at%2020.04.36.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(2nd%20generation)%20-%202019-09-21%20at%2011.26.39.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(2nd%20generation)%20-%202019-09-21%20at%2011.26.49.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%202019-09-21%20at%2011.19.51.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%202019-09-21%20at%2011.22.30.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-09-21%20at%2011.12.27.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-09-21%20at%2011.12.37.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-21%20at%2011.16.58.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-21%20at%2011.17.02.png"
+      ],
+      "links": {
+        "website": "https://moonlight-stream.org/",
+        "github": "https://github.com/moonlight-stream/moonlight-ios",
+        "download": "https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566",
+        "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
+      },
+      "tags": [
+        "streaming",
+        "ios",
+        "mobile",
+        "gaming"
+      ],
+      "featured": true,
+      "compatibility": {
+        "sunshine": ">=0.1.0"
+      },
+      "github": {
+        "stars": 1506,
+        "openIssues": 159,
+        "forks": 409,
+        "lastUpdated": "2026-01-27T03:22:27Z",
+        "license": "GPL-3.0"
+      }
+    },
+    {
       "id": "moonlight-qt",
       "name": "Moonlight PC",
       "tagline": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
-      "description": "Open source PC client for NVIDIA GameStream and Sunshine.",
+      "description": "Open source client for Sunshine and NVIDIA GameStream.",
       "category": "client",
       "platforms": [
         "windows",
         "macos",
         "linux"
       ],
-      "icon": "https://raw.githubusercontent.com/moonlight-stream/moonlight-qt/refs/heads/master/app/res/moonlight.svg",
+      "icon": "https://github.com/moonlight-stream.png",
       "links": {
         "website": "https://moonlight-stream.org/",
         "github": "https://github.com/moonlight-stream/moonlight-qt",
@@ -75,10 +156,10 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 15987,
+        "stars": 15988,
         "openIssues": 503,
         "forks": 963,
-        "lastUpdated": "2026-01-28T18:51:21Z",
+        "lastUpdated": "2026-01-28T19:34:08Z",
         "license": "GPL-3.0"
       }
     }
@@ -91,7 +172,7 @@
       "icon": "monitor-play",
       "originalId": "client",
       "project": "sunshine",
-      "count": 2
+      "count": 4
     },
     {
       "id": "sunshine:tool",

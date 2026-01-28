@@ -94,7 +94,6 @@ const data = await response.json();
 - `tags`: Array of searchable keywords
 - `featured`: Boolean to highlight the app
 - `compatibility`: Version requirements for host projects
-- `metadata`: Author, license, updated timestamp
 
 ## Adding a New Project
 

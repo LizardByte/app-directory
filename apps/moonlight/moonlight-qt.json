@@ -2,10 +2,10 @@
   "id": "moonlight-qt",
   "name": "Moonlight PC",
   "tagline": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
-  "description": "Open source PC client for NVIDIA GameStream and Sunshine.",
+  "description": "Open source client for Sunshine and NVIDIA GameStream.",
   "category": "client",
   "platforms": ["windows", "macos", "linux"],
-  "icon": "https://raw.githubusercontent.com/moonlight-stream/moonlight-qt/refs/heads/master/app/res/moonlight.svg",
+  "icon": "https://github.com/moonlight-stream.png",
   "links": {
     "website": "https://moonlight-stream.org/",
     "github": "https://github.com/moonlight-stream/moonlight-qt",

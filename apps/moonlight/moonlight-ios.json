@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-ios",
+  "name": "Moonlight iOS/tvOS",
+  "tagline": "GameStream client for iOS/tvOS",
+  "description": "Open source client for Sunshine and NVIDIA GameStream.",
+  "category": "client",
+  "platforms": ["ios"],
+  "icon": "https://github.com/moonlight-stream.png",
+  "screenshots": [
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20Apple%20TV%204K%20-%202019-09-22%20at%2021.14.05.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20Apple%20TV%204K%20-%202019-09-22%20at%2021.14.56.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(2nd%20generation)%20-%202018-06-17%20at%2020.04.36.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(2nd%20generation)%20-%202019-09-21%20at%2011.26.39.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(2nd%20generation)%20-%202019-09-21%20at%2011.26.49.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%202019-09-21%20at%2011.19.51.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%202019-09-21%20at%2011.22.30.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-09-21%20at%2011.12.27.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-09-21%20at%2011.12.37.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-21%20at%2011.16.58.png",
+    "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-21%20at%2011.17.02.png"
+  ],
+  "links": {
+    "website": "https://moonlight-stream.org/",
+    "github": "https://github.com/moonlight-stream/moonlight-ios",
+    "download": "https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566",
+    "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
+  },
+  "tags": ["streaming", "ios", "mobile", "gaming"],
+  "featured": true,
+  "compatibility": {
+    "sunshine": ">=0.1.0"
+  }
+}

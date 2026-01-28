@@ -6,6 +6,7 @@
 
 const fs = require('node:fs');
 const path = require('node:path');
+const { URL } = require('node:url');
 const { glob } = require('glob');
 
 // Version constants
@@ -20,11 +21,17 @@ const MASTER_INDEX_VERSION = '0.1.0';
  * @returns {Promise<object|null>} Repository metadata or null if not available
  */
 async function fetchGitHubMetadata(repoUrl) {
-  if (!repoUrl?.includes('github.com')) {
+  if (!repoUrl) {
     return null;
   }
 
   try {
+    // Parse and validate the URL to prevent substring injection attacks
+    const url = new URL(repoUrl);
+    if (url.hostname !== 'github.com') {
+      return null;
+    }
+
     // Extract owner/repo from URL
     const match = new RegExp(/github\.com\/([^/]+)\/([^/]+)/).exec(repoUrl);
     if (!match) {

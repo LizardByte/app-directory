@@ -112,7 +112,7 @@ GitHub Actions automatically:
 - ✓ Validates all JSON files against schemas (apps, projects, categories)
 - ✓ Lints JavaScript files with ESLint
 - ✓ Builds project-specific indexes in `dist/` directory
-- ✓ Deploys to GitHub Pages (`gh-pages` branch)
+- ✓ Deploys to GitHub Pages (`dist` branch)
 - ✓ Runs on every push and pull request
 
 ### npm Scripts
@@ -139,12 +139,12 @@ https://lizardbyte.github.io/app-directory/index.json
 
 ### jsDelivr CDN (Faster, Global)
 ```
-https://cdn.jsdelivr.net/gh/LizardByte/app-directory@gh-pages/{project}.json
+https://cdn.jsdelivr.net/gh/LizardByte/app-directory@dist/{project}.json
 ```
 
 ### Raw GitHub (Slower)
 ```
-https://raw.githubusercontent.com/LizardByte/app-directory/gh-pages/{project}.json
+https://raw.githubusercontent.com/LizardByte/app-directory/dist/{project}.json
 ```
 
 ## Contributing

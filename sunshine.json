@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-01-28T18:13:55.562Z",
+  "updated": "2026-01-28T19:26:03.670Z",
   "apps": [
     {
       "id": "moonlight-android",
@@ -43,12 +43,9 @@
       "compatibility": {
         "sunshine": ">=0.1.0"
       },
-      "metadata": {
-        "license": "GPL-3.0"
-      },
       "github": {
         "stars": 6244,
-        "openIssues": 368,
+        "openIssues": 369,
         "forks": 1056,
         "lastUpdated": "2026-01-28T13:52:00Z",
         "license": "GPL-3.0"
@@ -82,14 +79,11 @@
       "compatibility": {
         "sunshine": ">=0.1.0"
       },
-      "metadata": {
-        "license": "GPL-3.0"
-      },
       "github": {
-        "stars": 15986,
+        "stars": 15987,
         "openIssues": 503,
         "forks": 963,
-        "lastUpdated": "2026-01-28T17:21:35Z",
+        "lastUpdated": "2026-01-28T18:51:21Z",
         "license": "GPL-3.0"
       }
     }

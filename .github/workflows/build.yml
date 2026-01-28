@@ -6,6 +6,8 @@ on:
     branches:
       - master
   pull_request:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -25,7 +27,7 @@ jobs:
           node-version: '24'
 
       - name: Install dependencies
-        run: npm install
+        run: npm install --ignore-scripts
 
       - name: Validate JSON files
         run: npm run validate
@@ -36,23 +38,41 @@ jobs:
       - name: Build indexes
         run: npm run build
 
-      - name: Upload pages artifacts
-        uses: actions/upload-pages-artifact@v4
+      - name: Upload dist artifacts
+        uses: actions/upload-artifact@v6
         with:
-          name: github-pages
+          if-no-files-found: 'error'
+          name: dist
           path: dist/
 
-  deploy:
+  publish:
     needs: build
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    if: (github.event_name == 'push' && github.ref == 'refs/heads/master') || github.event_name == 'schedule'
     runs-on: ubuntu-latest
     permissions:
-      pages: write  # to deploy to Pages
-      id-token: write  # to verify the deployment originates from an appropriate source
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      contents: read
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Download dist artifacts
+        uses: actions/download-artifact@v7
+        with:
+          name: dist
+          path: dist/
+
+      - name: Publish to dist branch
+        env:
+          GH_BOT_NAME: ${{ secrets.GH_BOT_NAME }}
+          GH_BOT_EMAIL: ${{ secrets.GH_BOT_EMAIL }}
+          GH_BOT_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
+        run: |
+          git config --global user.name "${GH_BOT_NAME}"
+          git config --global user.email "${GH_BOT_EMAIL}"
+          git clone --single-branch --branch dist \
+            "https://x-access-token:${GH_BOT_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" dist-repo \
+            || git clone "https://x-access-token:${GH_BOT_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" dist-repo
+          cd dist-repo
+          git checkout dist 2>/dev/null || git checkout --orphan dist
+          git rm -rf . 2>/dev/null || true
+          cp -r ../dist/* .
+          git add .
+          git diff --staged --quiet || git commit -m "build: update dist from ${GITHUB_SHA}"
+          git push "https://x-access-token:${GH_BOT_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" dist

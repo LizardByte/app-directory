@@ -2,10 +2,10 @@
   "id": "moonlight-android",
   "name": "Moonlight for Android",
   "tagline": "GameStream client for Android",
-  "description": "Open source client for NVIDIA GameStream and Sunshine.",
+  "description": "Open source client for Sunshine and NVIDIA GameStream.",
   "category": "client",
   "platforms": ["android"],
-  "icon": "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/icon.png",
+  "icon": "https://github.com/moonlight-stream.png",
   "screenshots": [
     "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1-pc.png",
     "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2-settings.png",

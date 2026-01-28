@@ -1,0 +1,20 @@
+{
+  "id": "moonlight-embedded",
+  "name": "Moonlight Embedded",
+  "tagline": "Gamestream client for embedded systems",
+  "description": "Open source client for Sunshine and NVIDIA GameStream for embedded Linux systems, like Raspberry Pi, CuBox-i and ODROID.",
+  "category": "client",
+  "platforms": ["linux"],
+  "icon": "https://github.com/moonlight-stream.png",
+  "links": {
+    "website": "https://moonlight-stream.org/",
+    "github": "https://github.com/moonlight-stream/moonlight-embedded",
+    "download": "https://github.com/moonlight-stream/moonlight-embedded/wiki/Packages",
+    "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
+  },
+  "tags": ["streaming", "gamestream", "client", "gaming"],
+  "featured": true,
+  "compatibility": {
+    "sunshine": ">=0.1.0"
+  }
+}

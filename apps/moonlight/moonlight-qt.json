@@ -16,8 +16,5 @@
   "featured": true,
   "compatibility": {
     "sunshine": ">=0.1.0"
-  },
-  "metadata": {
-    "license": "GPL-3.0"
   }
 }

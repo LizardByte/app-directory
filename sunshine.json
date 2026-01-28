@@ -1,0 +1,115 @@
+{
+  "version": "0.1.0",
+  "project": {
+    "id": "sunshine",
+    "name": "Sunshine",
+    "description": "Self-hosted game stream host for Moonlight."
+  },
+  "updated": "2026-01-28T18:13:55.562Z",
+  "apps": [
+    {
+      "id": "moonlight-android",
+      "name": "Moonlight for Android",
+      "tagline": "GameStream client for Android",
+      "description": "Open source client for NVIDIA GameStream and Sunshine.",
+      "category": "sunshine:client",
+      "platforms": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1-pc.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2-settings.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/sevenInchScreenshots/1-pc.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/sevenInchScreenshots/2-settings.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/tenInchScreenshots/1-pc.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/tenInchScreenshots/2-settings.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/tvScreenshots/1-pc.png",
+        "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/tvScreenshots/2-settings.png"
+      ],
+      "links": {
+        "website": "https://moonlight-stream.org/",
+        "github": "https://github.com/moonlight-stream/moonlight-android",
+        "download": "https://play.google.com/store/apps/details?id=com.limelight",
+        "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
+      },
+      "tags": [
+        "streaming",
+        "android",
+        "mobile",
+        "gaming"
+      ],
+      "featured": true,
+      "compatibility": {
+        "sunshine": ">=0.1.0"
+      },
+      "metadata": {
+        "license": "GPL-3.0"
+      },
+      "github": {
+        "stars": 6244,
+        "openIssues": 368,
+        "forks": 1056,
+        "lastUpdated": "2026-01-28T13:52:00Z",
+        "license": "GPL-3.0"
+      }
+    },
+    {
+      "id": "moonlight-qt",
+      "name": "Moonlight PC",
+      "tagline": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+      "description": "Open source PC client for NVIDIA GameStream and Sunshine.",
+      "category": "sunshine:client",
+      "platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ],
+      "icon": "https://raw.githubusercontent.com/moonlight-stream/moonlight-qt/refs/heads/master/app/res/moonlight.svg",
+      "links": {
+        "website": "https://moonlight-stream.org/",
+        "github": "https://github.com/moonlight-stream/moonlight-qt",
+        "download": "https://github.com/moonlight-stream/moonlight-qt/releases/latest",
+        "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
+      },
+      "tags": [
+        "streaming",
+        "gamestream",
+        "client",
+        "gaming"
+      ],
+      "featured": true,
+      "compatibility": {
+        "sunshine": ">=0.1.0"
+      },
+      "metadata": {
+        "license": "GPL-3.0"
+      },
+      "github": {
+        "stars": 15986,
+        "openIssues": 503,
+        "forks": 963,
+        "lastUpdated": "2026-01-28T17:21:35Z",
+        "license": "GPL-3.0"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "sunshine:client",
+      "name": "Streaming Clients",
+      "description": "Applications to stream from your Sunshine host",
+      "icon": "monitor-play",
+      "originalId": "client",
+      "count": 2
+    },
+    {
+      "id": "sunshine:tool",
+      "name": "Companion Tools",
+      "description": "Utilities and tools that enhance your Sunshine experience",
+      "icon": "wrench",
+      "originalId": "tool",
+      "count": 0
+    }
+  ]
+}

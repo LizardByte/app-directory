@@ -36,12 +36,11 @@ jobs:
       - name: Build indexes
         run: npm run build
 
-      - name: Upload dist artifacts
-        uses: actions/upload-artifact@v6
+      - name: Upload pages artifacts
+        uses: actions/upload-pages-artifact@v4
         with:
           name: github-pages
           path: dist/
-          if-no-files-found: error
 
   deploy:
     needs: build

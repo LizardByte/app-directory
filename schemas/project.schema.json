@@ -4,6 +4,7 @@
   "description": "Schema for project-specific configuration",
   "type": "object",
   "required": ["id", "name"],
+  "additionalProperties": false,
   "properties": {
     "id": {
       "type": "string",

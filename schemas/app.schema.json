@@ -4,6 +4,7 @@
   "description": "Schema for featured applications in the LizardByte app directory",
   "type": "object",
   "required": ["id", "name", "category", "description", "platforms"],
+  "additionalProperties": false,
   "properties": {
     "id": {
       "type": "string",
@@ -81,6 +82,7 @@
     },
     "compatibility": {
       "type": "object",
+      "additionalProperties": false,
       "properties": {
         "sunshine": {
           "type": "string",

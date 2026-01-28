@@ -4,12 +4,14 @@
   "description": "Schema for project-specific category definitions",
   "type": "object",
   "required": ["categories"],
+  "additionalProperties": false,
   "properties": {
     "categories": {
       "type": "array",
       "items": {
         "type": "object",
         "required": ["id", "name", "description"],
+        "additionalProperties": false,
         "properties": {
           "id": {
             "type": "string",

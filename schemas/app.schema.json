@@ -76,9 +76,9 @@
       },
       "description": "Searchable tags"
     },
-    "featured": {
+    "official": {
       "type": "boolean",
-      "description": "Whether to highlight this app"
+      "description": "Whether this is an official app maintained by the LizardByte team or partners"
     },
     "compatibility": {
       "type": "object",

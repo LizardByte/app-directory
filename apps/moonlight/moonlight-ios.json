@@ -25,8 +25,8 @@
     "download": "https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566",
     "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
   },
+  "official": true,
   "tags": ["streaming", "ios", "mobile", "gaming"],
-  "featured": true,
   "compatibility": {
     "sunshine": ">=0.1.0"
   }

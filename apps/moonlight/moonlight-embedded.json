@@ -12,8 +12,8 @@
     "download": "https://github.com/moonlight-stream/moonlight-embedded/wiki/Packages",
     "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
   },
+  "official": true,
   "tags": ["streaming", "gamestream", "client", "gaming"],
-  "featured": true,
   "compatibility": {
     "sunshine": ">=0.1.0"
   }

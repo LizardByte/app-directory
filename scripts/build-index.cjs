@@ -55,11 +55,32 @@ async function fetchGitHubMetadata(repoUrl) {
 
     const data = await response.json();
 
+    // Fetch the latest commit on the default branch
+    let lastCommitDate = data.pushed_at; // fallback to pushed_at
+    try {
+      const defaultBranch = data.default_branch;
+      const commitsUrl = `https://api.github.com/repos/${owner}/${repo.replace(/\.git$/, '')}/commits/${defaultBranch}`;
+      const commitResponse = await fetch(commitsUrl, {
+        headers: {
+          'Accept': 'application/vnd.github.v3+json',
+          'User-Agent': 'LizardByte-App-Directory',
+        },
+      });
+
+      if (commitResponse.ok) {
+        const commitData = await commitResponse.json();
+        lastCommitDate = commitData.commit.committer.date;
+      }
+    } catch (commitError) {
+      // If fetching commit fails, use pushed_at as fallback
+      console.error(`    Warning: Failed to fetch latest commit, using pushed_at: ${commitError.message}`);
+    }
+
     return {
       stars: data.stargazers_count,
       openIssues: data.open_issues_count,
       forks: data.forks_count,
-      lastUpdated: data.updated_at,
+      lastUpdated: lastCommitDate,
       license: data.license?.spdx_id || null,
     };
   } catch (error_) {

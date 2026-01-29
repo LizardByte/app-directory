@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-01-28T19:50:23.115Z",
+  "updated": "2026-01-29T00:53:19.481Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -18,13 +18,13 @@
         "download": "https://github.com/moonlight-stream/moonlight-embedded/wiki/Packages",
         "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
       },
+      "official": true,
       "tags": [
         "streaming",
         "gamestream",
         "client",
         "gaming"
       ],
-      "featured": true,
       "compatibility": {
         "sunshine": ">=0.1.0"
       },
@@ -32,7 +32,7 @@
         "stars": 1604,
         "openIssues": 113,
         "forks": 356,
-        "lastUpdated": "2026-01-24T17:27:33Z",
+        "lastUpdated": "2025-11-30T22:38:13Z",
         "license": "GPL-3.0"
       }
     },
@@ -62,13 +62,13 @@
         "download": "https://play.google.com/store/apps/details?id=com.limelight",
         "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
       },
+      "official": true,
       "tags": [
         "streaming",
         "android",
         "mobile",
         "gaming"
       ],
-      "featured": true,
       "compatibility": {
         "sunshine": ">=0.1.0"
       },
@@ -76,7 +76,7 @@
         "stars": 6244,
         "openIssues": 369,
         "forks": 1056,
-        "lastUpdated": "2026-01-28T13:52:00Z",
+        "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
     },
@@ -109,13 +109,13 @@
         "download": "https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566",
         "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
       },
+      "official": true,
       "tags": [
         "streaming",
         "ios",
         "mobile",
         "gaming"
       ],
-      "featured": true,
       "compatibility": {
         "sunshine": ">=0.1.0"
       },
@@ -123,7 +123,7 @@
         "stars": 1506,
         "openIssues": 159,
         "forks": 409,
-        "lastUpdated": "2026-01-27T03:22:27Z",
+        "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
     },
@@ -145,21 +145,21 @@
         "download": "https://github.com/moonlight-stream/moonlight-qt/releases/latest",
         "documentation": "https://github.com/moonlight-stream/moonlight-docs/wiki"
       },
+      "official": true,
       "tags": [
         "streaming",
         "gamestream",
         "client",
         "gaming"
       ],
-      "featured": true,
       "compatibility": {
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 15988,
+        "stars": 15991,
         "openIssues": 503,
-        "forks": 963,
-        "lastUpdated": "2026-01-28T19:34:08Z",
+        "forks": 964,
+        "lastUpdated": "2026-01-28T04:22:29Z",
         "license": "GPL-3.0"
       }
     }

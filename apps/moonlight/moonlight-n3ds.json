@@ -1,0 +1,19 @@
+{
+  "id": "moonlight-n3ds",
+  "name": "Moonlight for the *New* Nintendo 3DS",
+  "tagline": "Gamestream client for the New 3DS",
+  "description": "Open source client for Sunshine and NVIDIA GameStream for the *New* Nintendo 3DS, forked from Moonlight Embedded.",
+  "category": "client",
+  "platforms": ["handheld"],
+  "icon": "https://github.com/moonlight-stream.png",
+  "links": {
+    "github": "https://github.com/zoeyjodon/moonlight-N3DS",
+    "download": "https://github.com/zoeyjodon/moonlight-N3DS/releases/latest",
+    "documentation": "https://github.com/zoeyjodon/moonlight-N3DS?tab=readme-ov-file"
+  },
+  "official": false,
+  "tags": ["streaming", "n3ds", "gaming"],
+  "compatibility": {
+    "sunshine": ">=0.1.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "moonlight-vita",
+  "name": "Moonlight for PS Vita",
+  "tagline": "NVIDIA Gamestream client for PlayStation Vita, based on moonlight-embedded",
+  "description": "A PlayStation Vita port of Moonlight.",
+  "category": "client",
+  "platforms": ["handheld"],
+  "icon": "https://github.com/moonlight-stream.png",
+  "screenshots": [
+    "https://github.com/xyzz/vita-moonlight/raw/vita/docs/keyboard.jpg",
+    "https://github.com/xyzz/vita-moonlight/raw/vita/docs/ip1.png",
+    "https://github.com/xyzz/vita-moonlight/raw/vita/docs/ip2.png",
+    "https://github.com/xyzz/vita-moonlight/raw/vita/docs/ip3.png",
+    "https://github.com/xyzz/vita-moonlight/raw/vita/docs/ip4.png",
+    "https://github.com/xyzz/vita-moonlight/raw/vita/docs/ip5.png"
+  ],
+  "links": {
+    "github": "https://github.com/xyzz/vita-moonlight",
+    "download": "https://github.com/xyzz/vita-moonlight/releases/latest",
+    "documentation": "https://github.com/xyzz/vita-moonlight?tab=readme-ov-file"
+  },
+  "official": false,
+  "tags": ["streaming", "ps-vita", "gaming"],
+  "compatibility": {
+    "sunshine": ">=0.1.0"
+  }
+}

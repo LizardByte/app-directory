@@ -1,0 +1,19 @@
+{
+  "id": "moonlight-xbox",
+  "name": "Moonlight for Xbox",
+  "tagline": "Moonlight port for Xbox One/Series Family of Console",
+  "description": "A port of Moonlight Stream for playing games using GeForce Experience or Sunshine for the Xbox One and Xbox Series X|S family of consoles.",
+  "category": "client",
+  "platforms": ["console"],
+  "icon": "https://github.com/moonlight-stream.png",
+  "links": {
+    "github": "https://github.com/TheElixZammuto/moonlight-xbox",
+    "download": "https://apps.microsoft.com/store/detail/9MW1BS08ZBTH?launch=true&mode=full",
+    "documentation": "https://github.com/TheElixZammuto/moonlight-xbox?tab=readme-ov-file"
+  },
+  "official": false,
+  "tags": ["streaming", "xbox", "gaming"],
+  "compatibility": {
+    "sunshine": ">=0.1.0"
+  }
+}

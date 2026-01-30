@@ -4,7 +4,7 @@
   "tagline": "GameStream client for iOS/tvOS",
   "description": "Open source client for Sunshine and NVIDIA GameStream.",
   "category": "client",
-  "platforms": ["ios"],
+  "platforms": ["ios", "tv"],
   "icon": "https://github.com/moonlight-stream.png",
   "screenshots": [
     "https://raw.githubusercontent.com/moonlight-stream/moonlight-ios/master/Screenshots/Simulator%20Screen%20Shot%20-%20Apple%20TV%204K%20-%202019-09-22%20at%2021.14.05.png",

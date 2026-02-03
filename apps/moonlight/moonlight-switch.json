@@ -1,0 +1,26 @@
+{
+  "id": "moonlight-switch",
+  "name": "Moonlight for Nintendo Switch",
+  "tagline": "Moonlight port for Nintendo Switch",
+  "description": "a port of Moonlight Game Streaming Project for Nintendo Switch.",
+  "category": "client",
+  "platforms": ["handheld"],
+  "icon": "https://github.com/moonlight-stream.png",
+  "screenshots": [
+    "https://user-images.githubusercontent.com/9553519/135712658-20382345-2da5-4968-9f57-f9f4470ae819.jpg",
+    "https://user-images.githubusercontent.com/9553519/135712664-bf2481b2-2791-490d-99a9-2f968682db76.jpg",
+    "https://user-images.githubusercontent.com/9553519/135712669-fd8b2495-e1ea-4357-949f-7fa7312da46f.jpg",
+    "https://user-images.githubusercontent.com/9553519/135712672-b9ac3785-bd1c-4948-82b2-9b353019feba.jpg",
+    "https://user-images.githubusercontent.com/9553519/135712676-aaa85bb7-9517-4a6d-bc35-070df092383c.jpg"
+  ],
+  "links": {
+    "github": "https://github.com/XITRIX/Moonlight-Switch",
+    "download": "https://github.com/XITRIX/Moonlight-Switch/releases/latest",
+    "documentation": "https://github.com/XITRIX/Moonlight-Switch?tab=readme-ov-file"
+  },
+  "official": false,
+  "tags": ["streaming", "nintendo-switch", "gaming"],
+  "compatibility": {
+    "sunshine": ">=0.1.0"
+  }
+}

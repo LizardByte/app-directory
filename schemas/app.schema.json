@@ -31,7 +31,17 @@
       "type": "array",
       "items": {
         "type": "string",
-        "enum": ["windows", "macos", "linux", "android", "ios", "web"]
+        "enum": [
+          "android",
+          "console",
+          "handheld",
+          "ios",
+          "linux",
+          "macos",
+          "tv",
+          "web",
+          "windows"
+        ]
       },
       "minItems": 1
     },

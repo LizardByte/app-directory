@@ -4,7 +4,7 @@
   "tagline": "GameStream client for Android",
   "description": "Open source client for Sunshine and NVIDIA GameStream.",
   "category": "client",
-  "platforms": ["android"],
+  "platforms": ["android", "tv"],
   "icon": "https://github.com/moonlight-stream.png",
   "screenshots": [
     "https://raw.githubusercontent.com/moonlight-stream/moonlight-android/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1-pc.png",

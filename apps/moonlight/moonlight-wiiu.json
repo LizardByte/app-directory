@@ -1,0 +1,19 @@
+{
+  "id": "moonlight-wiiu",
+  "name": "Moonlight for Nintendo Wii U",
+  "tagline": "Moonlight Wii U port",
+  "description": "A port of Moonlight Embedded, which is an open source client for Sunshine and NVIDIA GameStream.",
+  "category": "client",
+  "platforms": ["handheld"],
+  "icon": "https://github.com/moonlight-stream.png",
+  "links": {
+    "github": "https://github.com/GaryOderNichts/moonlight-wiiu",
+    "download": "https://github.com/GaryOderNichts/moonlight-wiiu/releases/latest",
+    "documentation": "https://github.com/GaryOderNichts/moonlight-wiiu?tab=readme-ov-file"
+  },
+  "official": false,
+  "tags": ["streaming", "nintendo-wiiu", "gaming"],
+  "compatibility": {
+    "sunshine": ">=0.1.0"
+  }
+}

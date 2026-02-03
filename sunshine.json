@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-02-03T04:20:32.691Z",
+  "updated": "2026-02-03T04:27:08.515Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -90,7 +90,7 @@
       "id": "moonlight-switch",
       "name": "Moonlight for Nintendo Switch",
       "tagline": "Moonlight port for Nintendo Switch",
-      "description": "a port of Moonlight Game Streaming Project for Nintendo Switch.",
+      "description": "A port of Moonlight Game Streaming Project for Nintendo Switch.",
       "category": "sunshine:client",
       "platforms": [
         "handheld"

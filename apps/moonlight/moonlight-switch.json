@@ -2,7 +2,7 @@
   "id": "moonlight-switch",
   "name": "Moonlight for Nintendo Switch",
   "tagline": "Moonlight port for Nintendo Switch",
-  "description": "a port of Moonlight Game Streaming Project for Nintendo Switch.",
+  "description": "A port of Moonlight Game Streaming Project for Nintendo Switch.",
   "category": "client",
   "platforms": ["handheld"],
   "icon": "https://github.com/moonlight-stream.png",

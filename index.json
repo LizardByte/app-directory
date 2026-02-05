@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-02-04T01:25:57.701Z",
+  "updated": "2026-02-05T01:26:57.840Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -29,7 +29,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1605,
+        "stars": 1604,
         "openIssues": 113,
         "forks": 355,
         "lastUpdated": "2025-11-30T22:38:13Z",
@@ -74,9 +74,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6274,
+        "stars": 6277,
         "openIssues": 371,
-        "forks": 1062,
+        "forks": 1060,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -113,8 +113,8 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1409,
-        "openIssues": 67,
+        "stars": 1410,
+        "openIssues": 68,
         "forks": 83,
         "lastUpdated": "2025-11-19T12:04:53Z",
         "license": "GPL-3.0"
@@ -185,7 +185,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 751,
+        "stars": 752,
         "openIssues": 73,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -217,7 +217,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 237,
+        "stars": 239,
         "openIssues": 46,
         "forks": 10,
         "lastUpdated": "2025-11-19T22:23:37Z",
@@ -249,7 +249,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 513,
+        "stars": 514,
         "openIssues": 35,
         "forks": 39,
         "lastUpdated": "2026-01-18T21:09:22Z",
@@ -297,7 +297,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1512,
+        "stars": 1515,
         "openIssues": 159,
         "forks": 407,
         "lastUpdated": "2025-10-09T02:56:42Z",
@@ -333,9 +333,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 16068,
+        "stars": 16077,
         "openIssues": 508,
-        "forks": 969,
+        "forks": 970,
         "lastUpdated": "2026-01-31T23:12:29Z",
         "license": "GPL-3.0"
       }

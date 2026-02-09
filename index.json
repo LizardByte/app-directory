@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-02-08T02:01:52.109Z",
+  "updated": "2026-02-09T01:44:49.783Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -29,7 +29,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1605,
+        "stars": 1606,
         "openIssues": 113,
         "forks": 355,
         "lastUpdated": "2025-11-30T22:38:13Z",
@@ -74,7 +74,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6293,
+        "stars": 6296,
         "openIssues": 371,
         "forks": 1065,
         "lastUpdated": "2024-07-27T22:09:42Z",
@@ -113,7 +113,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1410,
+        "stars": 1411,
         "openIssues": 68,
         "forks": 83,
         "lastUpdated": "2025-11-19T12:04:53Z",
@@ -217,7 +217,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 241,
+        "stars": 242,
         "openIssues": 46,
         "forks": 10,
         "lastUpdated": "2025-11-19T22:23:37Z",
@@ -249,8 +249,8 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 516,
-        "openIssues": 35,
+        "stars": 517,
+        "openIssues": 36,
         "forks": 39,
         "lastUpdated": "2026-01-18T21:09:22Z",
         "license": "GPL-3.0"
@@ -297,9 +297,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1516,
+        "stars": 1518,
         "openIssues": 158,
-        "forks": 407,
+        "forks": 408,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -333,10 +333,10 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 16112,
-        "openIssues": 505,
+        "stars": 16127,
+        "openIssues": 503,
         "forks": 972,
-        "lastUpdated": "2026-02-07T23:26:23Z",
+        "lastUpdated": "2026-02-08T04:01:26Z",
         "license": "GPL-3.0"
       }
     },
@@ -370,7 +370,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1262,
+        "stars": 1263,
         "openIssues": 56,
         "forks": 52,
         "lastUpdated": "2025-10-18T10:12:33Z",

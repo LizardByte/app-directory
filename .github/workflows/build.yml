@@ -24,7 +24,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: '24'
+          node-version: 'latest'
 
       - name: Install dependencies
         run: npm install --ignore-scripts
@@ -60,7 +60,7 @@ jobs:
 
       - name: Publish to dist branch
         env:
-          GH_BOT_NAME: ${{ secrets.GH_BOT_NAME }}
+          GH_BOT_NAME: ${{ vars.GH_BOT_NAME }}
           GH_BOT_EMAIL: ${{ secrets.GH_BOT_EMAIL }}
           GH_BOT_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
         run: |

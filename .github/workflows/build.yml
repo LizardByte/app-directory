@@ -39,7 +39,7 @@ jobs:
         run: npm run build
 
       - name: Upload dist artifacts
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           if-no-files-found: 'error'
           name: dist
@@ -53,7 +53,7 @@ jobs:
       contents: read
     steps:
       - name: Download dist artifacts
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: dist
           path: dist/

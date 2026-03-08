@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-03-07T01:23:04.925Z",
+  "updated": "2026-03-08T01:29:37.590Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -36,7 +36,7 @@
       "github": {
         "stars": 1612,
         "openIssues": 114,
-        "forks": 358,
+        "forks": 359,
         "lastUpdated": "2025-11-30T22:38:13Z",
         "license": "GPL-3.0"
       }
@@ -79,9 +79,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6369,
+        "stars": 6374,
         "openIssues": 372,
-        "forks": 1099,
+        "forks": 1102,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -118,7 +118,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1433,
+        "stars": 1434,
         "openIssues": 65,
         "forks": 85,
         "lastUpdated": "2026-03-05T22:13:00Z",
@@ -224,7 +224,7 @@
       "github": {
         "stars": 252,
         "openIssues": 46,
-        "forks": 12,
+        "forks": 13,
         "lastUpdated": "2026-02-27T14:34:49Z",
         "license": "GPL-3.0"
       }
@@ -254,7 +254,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 527,
+        "stars": 528,
         "openIssues": 39,
         "forks": 39,
         "lastUpdated": "2026-01-18T21:09:22Z",
@@ -304,7 +304,7 @@
       "github": {
         "stars": 1541,
         "openIssues": 158,
-        "forks": 417,
+        "forks": 418,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -338,9 +338,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 16382,
-        "openIssues": 510,
-        "forks": 987,
+        "stars": 16401,
+        "openIssues": 511,
+        "forks": 991,
         "lastUpdated": "2026-02-21T04:40:50Z",
         "license": "GPL-3.0"
       }
@@ -375,9 +375,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1299,
+        "stars": 1307,
         "openIssues": 59,
-        "forks": 55,
+        "forks": 56,
         "lastUpdated": "2025-10-18T10:12:33Z",
         "license": "GPL-3.0"
       }

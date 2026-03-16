@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-03-15T01:51:26.934Z",
+  "updated": "2026-03-16T01:54:57.415Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -74,9 +74,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6400,
-        "openIssues": 372,
-        "forks": 1113,
+        "stars": 6405,
+        "openIssues": 373,
+        "forks": 1115,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -113,7 +113,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1443,
+        "stars": 1444,
         "openIssues": 66,
         "forks": 85,
         "lastUpdated": "2026-03-05T22:13:00Z",
@@ -145,7 +145,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 184,
+        "stars": 185,
         "openIssues": 42,
         "forks": 25,
         "lastUpdated": "2026-02-14T23:22:38Z",
@@ -185,7 +185,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 758,
+        "stars": 759,
         "openIssues": 74,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -218,7 +218,7 @@
       },
       "github": {
         "stars": 254,
-        "openIssues": 46,
+        "openIssues": 47,
         "forks": 13,
         "lastUpdated": "2026-02-27T14:34:49Z",
         "license": "GPL-3.0"
@@ -249,7 +249,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 529,
+        "stars": 531,
         "openIssues": 39,
         "forks": 40,
         "lastUpdated": "2026-01-18T21:09:22Z",
@@ -298,8 +298,8 @@
       },
       "github": {
         "stars": 1543,
-        "openIssues": 160,
-        "forks": 422,
+        "openIssues": 162,
+        "forks": 421,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -333,7 +333,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 16496,
+        "stars": 16513,
         "openIssues": 511,
         "forks": 1000,
         "lastUpdated": "2026-02-21T04:40:50Z",
@@ -370,7 +370,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1312,
+        "stars": 1315,
         "openIssues": 60,
         "forks": 56,
         "lastUpdated": "2025-10-18T10:12:33Z",

@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-04-05T01:55:31.933Z",
+  "updated": "2026-04-06T01:56:33.293Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -34,7 +34,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1622,
+        "stars": 1624,
         "openIssues": 115,
         "forks": 356,
         "lastUpdated": "2026-03-28T19:43:00Z",
@@ -79,9 +79,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6468,
+        "stars": 6467,
         "openIssues": 379,
-        "forks": 1147,
+        "forks": 1150,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -120,8 +120,8 @@
       "github": {
         "stars": 1466,
         "openIssues": 69,
-        "forks": 86,
-        "lastUpdated": "2026-03-05T22:13:00Z",
+        "forks": 87,
+        "lastUpdated": "2026-04-05T21:31:10Z",
         "license": "GPL-3.0"
       }
     },
@@ -222,7 +222,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 263,
+        "stars": 264,
         "openIssues": 40,
         "forks": 13,
         "lastUpdated": "2026-03-18T15:31:38Z",
@@ -302,7 +302,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1556,
+        "stars": 1557,
         "openIssues": 162,
         "forks": 434,
         "lastUpdated": "2025-10-09T02:56:42Z",
@@ -338,9 +338,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 16721,
-        "openIssues": 517,
-        "forks": 1017,
+        "stars": 16728,
+        "openIssues": 518,
+        "forks": 1020,
         "lastUpdated": "2026-04-04T19:47:57Z",
         "license": "GPL-3.0"
       }
@@ -375,9 +375,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1329,
+        "stars": 1330,
         "openIssues": 60,
-        "forks": 56,
+        "forks": 55,
         "lastUpdated": "2025-10-18T10:12:33Z",
         "license": "GPL-3.0"
       }

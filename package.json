@@ -34,7 +34,7 @@
     "ajv": "8.17.1",
     "ajv-formats": "3.0.1",
     "eslint": "9.39.2",
-    "glob": "13.0.0",
+    "glob": "10.5.0",
     "npm-run-all2": "5.0.0"
   },
   "engines": {

@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-04-22T01:59:14.690Z",
+  "updated": "2026-04-23T02:03:32.490Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -29,7 +29,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1628,
+        "stars": 1629,
         "openIssues": 115,
         "forks": 359,
         "lastUpdated": "2026-03-28T19:43:00Z",
@@ -74,9 +74,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6514,
+        "stars": 6516,
         "openIssues": 381,
-        "forks": 1166,
+        "forks": 1168,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -113,7 +113,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1478,
+        "stars": 1479,
         "openIssues": 69,
         "forks": 88,
         "lastUpdated": "2026-04-10T19:32:22Z",
@@ -186,7 +186,7 @@
       },
       "github": {
         "stars": 773,
-        "openIssues": 74,
+        "openIssues": 75,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
         "license": "GPL-3.0"
@@ -249,8 +249,8 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 548,
-        "openIssues": 36,
+        "stars": 549,
+        "openIssues": 37,
         "forks": 43,
         "lastUpdated": "2026-04-20T19:57:46Z",
         "license": "GPL-3.0"
@@ -297,7 +297,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1566,
+        "stars": 1569,
         "openIssues": 166,
         "forks": 445,
         "lastUpdated": "2025-10-09T02:56:42Z",
@@ -333,9 +333,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 16871,
+        "stars": 16878,
         "openIssues": 514,
-        "forks": 1032,
+        "forks": 1034,
         "lastUpdated": "2026-04-20T05:25:21Z",
         "license": "GPL-3.0"
       }
@@ -370,7 +370,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1350,
+        "stars": 1352,
         "openIssues": 60,
         "forks": 55,
         "lastUpdated": "2025-10-18T10:12:33Z",

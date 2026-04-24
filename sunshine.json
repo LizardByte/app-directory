@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-04-23T02:03:32.482Z",
+  "updated": "2026-04-24T02:03:44.537Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -34,7 +34,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1629,
+        "stars": 1631,
         "openIssues": 115,
         "forks": 359,
         "lastUpdated": "2026-03-28T19:43:00Z",
@@ -79,9 +79,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6516,
+        "stars": 6523,
         "openIssues": 381,
-        "forks": 1168,
+        "forks": 1171,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -118,8 +118,8 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1479,
-        "openIssues": 69,
+        "stars": 1481,
+        "openIssues": 70,
         "forks": 88,
         "lastUpdated": "2026-04-10T19:32:22Z",
         "license": "GPL-3.0"
@@ -150,7 +150,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 191,
+        "stars": 192,
         "openIssues": 43,
         "forks": 26,
         "lastUpdated": "2026-02-14T23:22:38Z",
@@ -190,7 +190,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 773,
+        "stars": 774,
         "openIssues": 75,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -302,9 +302,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1569,
+        "stars": 1571,
         "openIssues": 166,
-        "forks": 445,
+        "forks": 448,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -338,9 +338,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 16878,
+        "stars": 16891,
         "openIssues": 514,
-        "forks": 1034,
+        "forks": 1036,
         "lastUpdated": "2026-04-20T05:25:21Z",
         "license": "GPL-3.0"
       }
@@ -375,7 +375,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1352,
+        "stars": 1353,
         "openIssues": 60,
         "forks": 55,
         "lastUpdated": "2025-10-18T10:12:33Z",

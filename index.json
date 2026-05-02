@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-05-01T02:31:16.325Z",
+  "updated": "2026-05-02T02:07:46.467Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -74,9 +74,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6551,
+        "stars": 6554,
         "openIssues": 380,
-        "forks": 1182,
+        "forks": 1185,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -113,7 +113,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1491,
+        "stars": 1493,
         "openIssues": 70,
         "forks": 89,
         "lastUpdated": "2026-04-30T21:49:53Z",
@@ -250,8 +250,8 @@
       },
       "github": {
         "stars": 552,
-        "openIssues": 37,
-        "forks": 44,
+        "openIssues": 39,
+        "forks": 46,
         "lastUpdated": "2026-04-28T19:04:36Z",
         "license": "GPL-3.0"
       }
@@ -297,9 +297,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1575,
+        "stars": 1576,
         "openIssues": 166,
-        "forks": 450,
+        "forks": 451,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -333,9 +333,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 16964,
-        "openIssues": 516,
-        "forks": 1054,
+        "stars": 16973,
+        "openIssues": 518,
+        "forks": 1055,
         "lastUpdated": "2026-04-27T04:15:02Z",
         "license": "GPL-3.0"
       }
@@ -370,7 +370,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1357,
+        "stars": 1358,
         "openIssues": 60,
         "forks": 57,
         "lastUpdated": "2025-10-18T10:12:33Z",

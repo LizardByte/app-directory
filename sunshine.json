@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-05-10T02:26:13.809Z",
+  "updated": "2026-05-11T02:35:11.615Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -79,9 +79,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6573,
+        "stars": 6578,
         "openIssues": 381,
-        "forks": 1198,
+        "forks": 1201,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -118,9 +118,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1498,
+        "stars": 1499,
         "openIssues": 71,
-        "forks": 90,
+        "forks": 91,
         "lastUpdated": "2026-05-09T15:46:15Z",
         "license": "GPL-3.0"
       }
@@ -152,7 +152,7 @@
       "github": {
         "stars": 196,
         "openIssues": 43,
-        "forks": 27,
+        "forks": 28,
         "lastUpdated": "2026-02-14T23:22:38Z",
         "license": "GPL-3.0"
       }
@@ -190,7 +190,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 777,
+        "stars": 778,
         "openIssues": 75,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -255,8 +255,8 @@
       },
       "github": {
         "stars": 555,
-        "openIssues": 38,
-        "forks": 47,
+        "openIssues": 39,
+        "forks": 48,
         "lastUpdated": "2026-05-03T08:02:19Z",
         "license": "GPL-3.0"
       }
@@ -302,7 +302,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1584,
+        "stars": 1582,
         "openIssues": 166,
         "forks": 454,
         "lastUpdated": "2025-10-09T02:56:42Z",
@@ -338,10 +338,10 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 17055,
+        "stars": 17063,
         "openIssues": 522,
         "forks": 1062,
-        "lastUpdated": "2026-05-09T18:21:38Z",
+        "lastUpdated": "2026-05-10T21:56:34Z",
         "license": "GPL-3.0"
       }
     },
@@ -377,7 +377,7 @@
       "github": {
         "stars": 1366,
         "openIssues": 61,
-        "forks": 58,
+        "forks": 59,
         "lastUpdated": "2025-10-18T10:12:33Z",
         "license": "GPL-3.0"
       }

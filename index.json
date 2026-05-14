@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-05-13T02:35:08.284Z",
+  "updated": "2026-05-14T02:36:07.501Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -29,7 +29,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1634,
+        "stars": 1635,
         "openIssues": 115,
         "forks": 362,
         "lastUpdated": "2026-03-28T19:43:00Z",
@@ -74,9 +74,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6580,
+        "stars": 6586,
         "openIssues": 381,
-        "forks": 1203,
+        "forks": 1206,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -113,7 +113,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1500,
+        "stars": 1501,
         "openIssues": 71,
         "forks": 91,
         "lastUpdated": "2026-05-09T15:46:15Z",
@@ -217,7 +217,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 272,
+        "stars": 273,
         "openIssues": 41,
         "forks": 15,
         "lastUpdated": "2026-03-18T15:31:38Z",
@@ -249,7 +249,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 556,
+        "stars": 557,
         "openIssues": 39,
         "forks": 49,
         "lastUpdated": "2026-05-03T08:02:19Z",
@@ -299,7 +299,7 @@
       "github": {
         "stars": 1582,
         "openIssues": 166,
-        "forks": 456,
+        "forks": 458,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -333,9 +333,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 17086,
+        "stars": 17091,
         "openIssues": 526,
-        "forks": 1063,
+        "forks": 1066,
         "lastUpdated": "2026-05-11T02:53:09Z",
         "license": "GPL-3.0"
       }
@@ -370,7 +370,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1368,
+        "stars": 1369,
         "openIssues": 61,
         "forks": 58,
         "lastUpdated": "2025-10-18T10:12:33Z",

@@ -35,7 +35,7 @@ app-directory/
 ### Installation
 
 ```bash
-npm install
+npm install --ignore-scripts
 ```
 
 ### Build Indexes

@@ -27,7 +27,7 @@ jobs:
           node-version: 'latest'
 
       - name: Install dependencies
-        run: npm install --ignore-scripts
+        run: npm ci --ignore-scripts
 
       - name: Validate JSON files
         run: npm run validate

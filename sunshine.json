@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-05-20T02:41:44.373Z",
+  "updated": "2026-05-21T02:43:53.776Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -79,9 +79,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6606,
+        "stars": 6608,
         "openIssues": 381,
-        "forks": 1218,
+        "forks": 1220,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -119,8 +119,8 @@
       },
       "github": {
         "stars": 1508,
-        "openIssues": 76,
-        "forks": 91,
+        "openIssues": 77,
+        "forks": 93,
         "lastUpdated": "2026-05-18T22:24:32Z",
         "license": "GPL-3.0"
       }
@@ -222,7 +222,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 273,
+        "stars": 274,
         "openIssues": 41,
         "forks": 15,
         "lastUpdated": "2026-03-18T15:31:38Z",
@@ -254,7 +254,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 556,
+        "stars": 557,
         "openIssues": 40,
         "forks": 49,
         "lastUpdated": "2026-05-15T20:13:20Z",
@@ -302,9 +302,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1588,
+        "stars": 1589,
         "openIssues": 167,
-        "forks": 461,
+        "forks": 460,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -338,9 +338,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 17184,
-        "openIssues": 523,
-        "forks": 1080,
+        "stars": 17195,
+        "openIssues": 524,
+        "forks": 1079,
         "lastUpdated": "2026-05-16T21:10:47Z",
         "license": "GPL-3.0"
       }
@@ -375,10 +375,10 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1374,
-        "openIssues": 62,
+        "stars": 1376,
+        "openIssues": 61,
         "forks": 59,
-        "lastUpdated": "2025-10-18T10:12:33Z",
+        "lastUpdated": "2026-05-20T14:19:21Z",
         "license": "GPL-3.0"
       }
     }

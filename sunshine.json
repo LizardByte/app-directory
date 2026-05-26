@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-05-25T02:49:31.287Z",
+  "updated": "2026-05-26T02:38:03.621Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -34,7 +34,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1638,
+        "stars": 1640,
         "openIssues": 116,
         "forks": 363,
         "lastUpdated": "2026-03-28T19:43:00Z",
@@ -79,9 +79,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6636,
+        "stars": 6641,
         "openIssues": 382,
-        "forks": 1229,
+        "forks": 1231,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -119,9 +119,9 @@
       },
       "github": {
         "stars": 1515,
-        "openIssues": 77,
+        "openIssues": 78,
         "forks": 93,
-        "lastUpdated": "2026-05-24T19:56:18Z",
+        "lastUpdated": "2026-05-25T18:27:23Z",
         "license": "GPL-3.0"
       }
     },
@@ -190,7 +190,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 781,
+        "stars": 782,
         "openIssues": 75,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -222,7 +222,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 275,
+        "stars": 276,
         "openIssues": 41,
         "forks": 15,
         "lastUpdated": "2026-03-18T15:31:38Z",
@@ -254,7 +254,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 557,
+        "stars": 558,
         "openIssues": 40,
         "forks": 49,
         "lastUpdated": "2026-05-15T20:13:20Z",
@@ -303,7 +303,7 @@
       },
       "github": {
         "stars": 1592,
-        "openIssues": 167,
+        "openIssues": 169,
         "forks": 464,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
@@ -338,7 +338,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 17260,
+        "stars": 17280,
         "openIssues": 523,
         "forks": 1081,
         "lastUpdated": "2026-05-24T20:23:19Z",
@@ -375,7 +375,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1379,
+        "stars": 1380,
         "openIssues": 61,
         "forks": 60,
         "lastUpdated": "2026-05-21T13:19:14Z",

@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-06-08T02:56:43.008Z",
+  "updated": "2026-06-08T13:31:28.918Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -74,9 +74,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6693,
+        "stars": 6694,
         "openIssues": 384,
-        "forks": 1256,
+        "forks": 1258,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -333,9 +333,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 17457,
-        "openIssues": 524,
-        "forks": 1097,
+        "stars": 17466,
+        "openIssues": 525,
+        "forks": 1098,
         "lastUpdated": "2026-06-07T20:14:29Z",
         "license": "GPL-3.0"
       }

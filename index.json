@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-06-26T02:44:57.240Z",
+  "updated": "2026-06-27T00:08:51.988Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -74,9 +74,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6752,
-        "openIssues": 387,
-        "forks": 1291,
+        "stars": 6760,
+        "openIssues": 388,
+        "forks": 1292,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -113,8 +113,8 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1548,
-        "openIssues": 77,
+        "stars": 1551,
+        "openIssues": 78,
         "forks": 98,
         "lastUpdated": "2026-06-25T20:34:06Z",
         "license": "GPL-3.0"
@@ -249,7 +249,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 567,
+        "stars": 568,
         "openIssues": 42,
         "forks": 52,
         "lastUpdated": "2026-06-16T15:12:23Z",
@@ -297,9 +297,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1601,
+        "stars": 1602,
         "openIssues": 173,
-        "forks": 478,
+        "forks": 477,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -333,10 +333,42 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 17652,
-        "openIssues": 530,
-        "forks": 1124,
-        "lastUpdated": "2026-06-26T01:01:29Z",
+        "stars": 17659,
+        "openIssues": 533,
+        "forks": 1125,
+        "lastUpdated": "2026-06-26T03:30:03Z",
+        "license": "GPL-3.0"
+      }
+    },
+    {
+      "id": "moonlight-tizen",
+      "name": "Moonlight Tizen",
+      "tagline": "GameStream client for Samsung Smart TV's running Tizen OS",
+      "description": "Moonlight Tizen is a GameStream client for Samsung Smart TV's running Tizen OS. It allows you to stream games from your PC to your TV.",
+      "category": "client",
+      "platforms": [
+        "tv"
+      ],
+      "icon": "https://github.com/moonlight-stream.png",
+      "links": {
+        "github": "https://github.com/brightcraft/moonlight-tizen",
+        "download": "https://github.com/brightcraft/moonlight-tizen/releases",
+        "documentation": "https://github.com/brightcraft/moonlight-tizen#readme"
+      },
+      "official": false,
+      "tags": [
+        "streaming",
+        "tizen",
+        "gaming"
+      ],
+      "compatibility": {
+        "sunshine": ">=0.1.0"
+      },
+      "github": {
+        "stars": 186,
+        "openIssues": 7,
+        "forks": 14,
+        "lastUpdated": "2026-06-13T13:07:50Z",
         "license": "GPL-3.0"
       }
     },
@@ -370,7 +402,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1412,
+        "stars": 1413,
         "openIssues": 65,
         "forks": 69,
         "lastUpdated": "2026-05-31T09:01:37Z",
@@ -386,7 +418,7 @@
       "icon": "monitor-play",
       "originalId": "client",
       "project": "sunshine",
-      "count": 10
+      "count": 11
     },
     {
       "id": "sunshine:tool",

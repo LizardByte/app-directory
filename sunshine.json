@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-06-27T02:36:21.173Z",
+  "updated": "2026-06-28T02:50:09.677Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -79,7 +79,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6762,
+        "stars": 6765,
         "openIssues": 388,
         "forks": 1292,
         "lastUpdated": "2024-07-27T22:09:42Z",
@@ -150,7 +150,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 203,
+        "stars": 204,
         "openIssues": 44,
         "forks": 29,
         "lastUpdated": "2026-02-14T23:22:38Z",
@@ -222,7 +222,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 284,
+        "stars": 286,
         "openIssues": 42,
         "forks": 16,
         "lastUpdated": "2026-03-18T15:31:38Z",
@@ -254,7 +254,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 568,
+        "stars": 569,
         "openIssues": 42,
         "forks": 52,
         "lastUpdated": "2026-06-16T15:12:23Z",
@@ -302,9 +302,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1602,
+        "stars": 1604,
         "openIssues": 173,
-        "forks": 477,
+        "forks": 478,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -338,9 +338,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 17659,
+        "stars": 17676,
         "openIssues": 533,
-        "forks": 1125,
+        "forks": 1128,
         "lastUpdated": "2026-06-26T03:30:03Z",
         "license": "GPL-3.0"
       }
@@ -370,10 +370,10 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 187,
-        "openIssues": 7,
+        "stars": 189,
+        "openIssues": 9,
         "forks": 14,
-        "lastUpdated": "2026-06-13T13:07:50Z",
+        "lastUpdated": "2026-06-27T15:58:31Z",
         "license": "GPL-3.0"
       }
     },

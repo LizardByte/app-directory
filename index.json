@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-06-28T02:50:09.686Z",
+  "updated": "2026-06-29T02:50:36.410Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -74,9 +74,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6765,
+        "stars": 6771,
         "openIssues": 388,
-        "forks": 1292,
+        "forks": 1294,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -113,7 +113,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1552,
+        "stars": 1553,
         "openIssues": 78,
         "forks": 98,
         "lastUpdated": "2026-06-25T20:34:06Z",
@@ -185,7 +185,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 784,
+        "stars": 785,
         "openIssues": 76,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -249,7 +249,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 569,
+        "stars": 570,
         "openIssues": 42,
         "forks": 52,
         "lastUpdated": "2026-06-16T15:12:23Z",
@@ -297,9 +297,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1604,
+        "stars": 1605,
         "openIssues": 173,
-        "forks": 478,
+        "forks": 477,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -333,10 +333,10 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 17676,
-        "openIssues": 533,
-        "forks": 1128,
-        "lastUpdated": "2026-06-26T03:30:03Z",
+        "stars": 17691,
+        "openIssues": 531,
+        "forks": 1132,
+        "lastUpdated": "2026-06-28T22:00:34Z",
         "license": "GPL-3.0"
       }
     },
@@ -365,10 +365,10 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 189,
-        "openIssues": 9,
+        "stars": 190,
+        "openIssues": 12,
         "forks": 14,
-        "lastUpdated": "2026-06-27T15:58:31Z",
+        "lastUpdated": "2026-06-28T14:06:23Z",
         "license": "GPL-3.0"
       }
     },
@@ -402,7 +402,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1413,
+        "stars": 1414,
         "openIssues": 65,
         "forks": 69,
         "lastUpdated": "2026-05-31T09:01:37Z",

@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-06-30T02:44:30.259Z",
+  "updated": "2026-07-01T02:50:32.156Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -29,7 +29,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1639,
+        "stars": 1640,
         "openIssues": 116,
         "forks": 369,
         "lastUpdated": "2026-06-06T03:28:35Z",
@@ -74,9 +74,9 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 6773,
+        "stars": 6781,
         "openIssues": 388,
-        "forks": 1296,
+        "forks": 1299,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -113,7 +113,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 1556,
+        "stars": 1558,
         "openIssues": 78,
         "forks": 98,
         "lastUpdated": "2026-06-25T20:34:06Z",
@@ -185,7 +185,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 785,
+        "stars": 786,
         "openIssues": 76,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -249,7 +249,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 570,
+        "stars": 568,
         "openIssues": 42,
         "forks": 53,
         "lastUpdated": "2026-06-16T15:12:23Z",
@@ -298,7 +298,7 @@
       },
       "github": {
         "stars": 1604,
-        "openIssues": 173,
+        "openIssues": 172,
         "forks": 478,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
@@ -333,8 +333,8 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 17702,
-        "openIssues": 531,
+        "stars": 17710,
+        "openIssues": 532,
         "forks": 1134,
         "lastUpdated": "2026-06-28T22:00:34Z",
         "license": "GPL-3.0"
@@ -365,7 +365,7 @@
         "sunshine": ">=0.1.0"
       },
       "github": {
-        "stars": 190,
+        "stars": 192,
         "openIssues": 13,
         "forks": 14,
         "lastUpdated": "2026-06-28T14:06:23Z",

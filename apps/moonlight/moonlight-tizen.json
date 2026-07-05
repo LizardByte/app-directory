@@ -15,5 +15,18 @@
   "tags": ["streaming", "tizen", "gaming"],
   "compatibility": {
     "sunshine": ">=0.1.0"
-  }
+  },
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/samsung.svg",
+      "alt": "Samsung Tizen TV",
+      "invert": true
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Download on GitHub",
+      "url": "https://github.com/brightcraft/moonlight-tizen/releases"
+    }
+  ]
 }

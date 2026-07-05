@@ -15,5 +15,18 @@
   "tags": ["streaming", "nintendo-wiiu", "gaming"],
   "compatibility": {
     "sunshine": ">=0.1.0"
-  }
+  },
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@13/icons/wiiu.svg",
+      "alt": "Wii U",
+      "invert": true
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Download",
+      "url": "https://github.com/GaryOderNichts/moonlight-wiiu#quick-start"
+    }
+  ]
 }

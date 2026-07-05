@@ -26,5 +26,29 @@
   "tags": ["streaming", "android", "mobile", "gaming"],
   "compatibility": {
     "sunshine": ">=0.1.0"
-  }
+  },
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/android.svg",
+      "alt": "Android",
+      "invert": true
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Get it on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.limelight",
+      "img": "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+    },
+    {
+      "label": "Available at Amazon Appstore",
+      "url": "https://www.amazon.com/gp/product/B00JK4MFN2",
+      "img": "https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png"
+    },
+    {
+      "label": "Get it on F-Droid",
+      "url": "https://f-droid.org/packages/com.limelight",
+      "img": "https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+    }
+  ]
 }

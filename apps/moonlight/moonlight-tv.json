@@ -20,5 +20,18 @@
   "tags": ["streaming", "ps-vita", "gaming"],
   "compatibility": {
     "sunshine": ">=0.1.0"
-  }
+  },
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/lg.svg",
+      "alt": "LG webOS TV",
+      "invert": true
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Download",
+      "url": "https://github.com/mariotaku/moonlight-tv#download"
+    }
+  ]
 }

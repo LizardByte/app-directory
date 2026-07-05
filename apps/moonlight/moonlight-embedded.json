@@ -16,5 +16,18 @@
   "tags": ["streaming", "gamestream", "client", "gaming"],
   "compatibility": {
     "sunshine": ">=0.1.0"
-  }
+  },
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/raspberrypi.svg",
+      "alt": "Raspberry Pi",
+      "invert": true
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Download",
+      "url": "https://github.com/irtimmer/moonlight-embedded/wiki/Packages"
+    }
+  ]
 }

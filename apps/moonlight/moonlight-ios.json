@@ -29,5 +29,29 @@
   "tags": ["streaming", "ios", "mobile", "gaming"],
   "compatibility": {
     "sunshine": ">=0.1.0"
-  }
+  },
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/ios.svg",
+      "alt": "iOS",
+      "invert": true
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/appletv.svg",
+      "alt": "Apple TV",
+      "invert": true
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Download on the App Store",
+      "url": "https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566",
+      "img": "https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
+    },
+    {
+      "label": "Download on Apple TV",
+      "url": "https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566",
+      "img": "https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-apple-tv.svg"
+    }
+  ]
 }

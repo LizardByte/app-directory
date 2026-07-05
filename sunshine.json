@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-07-05T15:59:06.736Z",
+  "updated": "2026-07-05T19:19:57.193Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -42,7 +42,7 @@
       ],
       "downloads": [
         {
-          "label": "Download",
+          "label": "Download on GitHub",
           "url": "https://github.com/irtimmer/moonlight-embedded/wiki/Packages"
         }
       ],
@@ -228,7 +228,7 @@
       ],
       "downloads": [
         {
-          "label": "Download",
+          "label": "Download on GitHub",
           "url": "https://github.com/GaryOderNichts/moonlight-wiiu#quick-start"
         }
       ],
@@ -326,7 +326,7 @@
       ],
       "downloads": [
         {
-          "label": "Download",
+          "label": "Download on GitHub",
           "url": "https://github.com/zoeyjodon/moonlight-N3DS"
         }
       ],
@@ -513,7 +513,7 @@
         }
       ],
       "github": {
-        "stars": 17772,
+        "stars": 17774,
         "openIssues": 532,
         "forks": 1141,
         "lastUpdated": "2026-07-05T04:14:34Z",
@@ -603,7 +603,7 @@
       ],
       "downloads": [
         {
-          "label": "Download",
+          "label": "Download on GitHub",
           "url": "https://github.com/mariotaku/moonlight-tv#download"
         }
       ],

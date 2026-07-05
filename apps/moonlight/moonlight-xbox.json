@@ -15,5 +15,19 @@
   "tags": ["streaming", "xbox", "gaming"],
   "compatibility": {
     "sunshine": ">=0.1.0"
-  }
+  },
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/xbox.svg",
+      "alt": "Xbox",
+      "invert": true
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Get it from Microsoft",
+      "url": "https://apps.microsoft.com/store/detail/moonlight-uwp/9MW1BS08ZBTH",
+      "img": "https://get.microsoft.com/images/en-us%20dark.svg"
+    }
+  ]
 }

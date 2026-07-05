@@ -99,6 +99,45 @@
           "description": "Compatible Sunshine versions (semver range)"
         }
       }
+    },
+    "icons": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["src", "alt"],
+        "properties": {
+          "src": {
+            "type": "string",
+            "format": "uri"
+          },
+          "alt": {
+            "type": "string"
+          },
+          "invert": {
+            "type": "boolean"
+          }
+        }
+      }
+    },
+    "downloads": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label", "url"],
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "img": {
+            "type": "string",
+            "format": "uri"
+          }
+        }
+      }
     }
   }
 }

@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-07-06T02:34:34.334Z",
+  "updated": "2026-07-06T12:52:36.986Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -47,7 +47,7 @@
         }
       ],
       "github": {
-        "stars": 1638,
+        "stars": 1639,
         "openIssues": 116,
         "forks": 369,
         "lastUpdated": "2026-06-06T03:28:35Z",
@@ -116,9 +116,9 @@
         }
       ],
       "github": {
-        "stars": 6804,
+        "stars": 6807,
         "openIssues": 390,
-        "forks": 1311,
+        "forks": 1313,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -189,7 +189,7 @@
       ],
       "github": {
         "stars": 1563,
-        "openIssues": 80,
+        "openIssues": 81,
         "forks": 98,
         "lastUpdated": "2026-06-25T20:34:06Z",
         "license": "GPL-3.0"
@@ -331,7 +331,7 @@
         }
       ],
       "github": {
-        "stars": 290,
+        "stars": 291,
         "openIssues": 42,
         "forks": 17,
         "lastUpdated": "2026-03-18T15:31:38Z",
@@ -378,7 +378,7 @@
       ],
       "github": {
         "stars": 569,
-        "openIssues": 43,
+        "openIssues": 44,
         "forks": 54,
         "lastUpdated": "2026-06-16T15:12:23Z",
         "license": "GPL-3.0"
@@ -449,7 +449,7 @@
         }
       ],
       "github": {
-        "stars": 1605,
+        "stars": 1607,
         "openIssues": 172,
         "forks": 480,
         "lastUpdated": "2025-10-09T02:56:42Z",
@@ -513,9 +513,9 @@
         }
       ],
       "github": {
-        "stars": 17776,
+        "stars": 17780,
         "openIssues": 532,
-        "forks": 1141,
+        "forks": 1140,
         "lastUpdated": "2026-07-05T20:52:09Z",
         "license": "GPL-3.0"
       }
@@ -558,7 +558,7 @@
         }
       ],
       "github": {
-        "stars": 195,
+        "stars": 196,
         "openIssues": 9,
         "forks": 14,
         "lastUpdated": "2026-07-04T19:22:39Z",

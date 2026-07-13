@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-07-13T02:07:14.639Z",
+  "updated": "2026-07-13T12:58:23.587Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -111,9 +111,9 @@
         }
       ],
       "github": {
-        "stars": 6833,
+        "stars": 6838,
         "openIssues": 392,
-        "forks": 1321,
+        "forks": 1323,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -183,7 +183,7 @@
         }
       ],
       "github": {
-        "stars": 1571,
+        "stars": 1572,
         "openIssues": 82,
         "forks": 98,
         "lastUpdated": "2026-07-12T21:46:44Z",
@@ -281,7 +281,7 @@
         }
       ],
       "github": {
-        "stars": 790,
+        "stars": 791,
         "openIssues": 76,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -326,7 +326,7 @@
         }
       ],
       "github": {
-        "stars": 293,
+        "stars": 294,
         "openIssues": 42,
         "forks": 16,
         "lastUpdated": "2026-03-18T15:31:38Z",
@@ -372,7 +372,7 @@
         }
       ],
       "github": {
-        "stars": 572,
+        "stars": 573,
         "openIssues": 46,
         "forks": 55,
         "lastUpdated": "2026-06-16T15:12:23Z",
@@ -444,9 +444,9 @@
         }
       ],
       "github": {
-        "stars": 1611,
+        "stars": 1612,
         "openIssues": 172,
-        "forks": 482,
+        "forks": 481,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -508,9 +508,9 @@
         }
       ],
       "github": {
-        "stars": 17852,
-        "openIssues": 535,
-        "forks": 1160,
+        "stars": 17860,
+        "openIssues": 536,
+        "forks": 1161,
         "lastUpdated": "2026-07-09T04:58:15Z",
         "license": "GPL-3.0"
       }
@@ -553,10 +553,10 @@
         }
       ],
       "github": {
-        "stars": 202,
-        "openIssues": 17,
+        "stars": 204,
+        "openIssues": 14,
         "forks": 15,
-        "lastUpdated": "2026-07-09T12:28:49Z",
+        "lastUpdated": "2026-07-13T12:44:05Z",
         "license": "GPL-3.0"
       }
     },

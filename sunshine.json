@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-07-12T13:12:49.190Z",
+  "updated": "2026-07-13T02:07:14.630Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -116,7 +116,7 @@
         }
       ],
       "github": {
-        "stars": 6830,
+        "stars": 6833,
         "openIssues": 392,
         "forks": 1321,
         "lastUpdated": "2024-07-27T22:09:42Z",
@@ -188,10 +188,10 @@
         }
       ],
       "github": {
-        "stars": 1570,
+        "stars": 1571,
         "openIssues": 82,
         "forks": 98,
-        "lastUpdated": "2026-07-10T21:26:59Z",
+        "lastUpdated": "2026-07-12T21:46:44Z",
         "license": "GPL-3.0"
       }
     },
@@ -286,7 +286,7 @@
         }
       ],
       "github": {
-        "stars": 789,
+        "stars": 790,
         "openIssues": 76,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -331,7 +331,7 @@
         }
       ],
       "github": {
-        "stars": 292,
+        "stars": 293,
         "openIssues": 42,
         "forks": 16,
         "lastUpdated": "2026-03-18T15:31:38Z",
@@ -449,7 +449,7 @@
         }
       ],
       "github": {
-        "stars": 1610,
+        "stars": 1611,
         "openIssues": 172,
         "forks": 482,
         "lastUpdated": "2025-10-09T02:56:42Z",
@@ -513,9 +513,9 @@
         }
       ],
       "github": {
-        "stars": 17842,
-        "openIssues": 534,
-        "forks": 1159,
+        "stars": 17852,
+        "openIssues": 535,
+        "forks": 1160,
         "lastUpdated": "2026-07-09T04:58:15Z",
         "license": "GPL-3.0"
       }
@@ -558,8 +558,8 @@
         }
       ],
       "github": {
-        "stars": 200,
-        "openIssues": 15,
+        "stars": 202,
+        "openIssues": 17,
         "forks": 15,
         "lastUpdated": "2026-07-09T12:28:49Z",
         "license": "GPL-3.0"
@@ -608,7 +608,7 @@
         }
       ],
       "github": {
-        "stars": 1426,
+        "stars": 1425,
         "openIssues": 67,
         "forks": 70,
         "lastUpdated": "2026-05-31T09:01:37Z",

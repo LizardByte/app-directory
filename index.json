@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-07-17T02:08:15.278Z",
+  "updated": "2026-07-18T01:52:56.084Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -42,7 +42,7 @@
         }
       ],
       "github": {
-        "stars": 1640,
+        "stars": 1639,
         "openIssues": 116,
         "forks": 368,
         "lastUpdated": "2026-06-06T03:28:35Z",
@@ -111,9 +111,9 @@
         }
       ],
       "github": {
-        "stars": 6846,
+        "stars": 6854,
         "openIssues": 392,
-        "forks": 1328,
+        "forks": 1330,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -183,7 +183,7 @@
         }
       ],
       "github": {
-        "stars": 1575,
+        "stars": 1579,
         "openIssues": 81,
         "forks": 99,
         "lastUpdated": "2026-07-14T19:39:18Z",
@@ -281,7 +281,7 @@
         }
       ],
       "github": {
-        "stars": 794,
+        "stars": 795,
         "openIssues": 76,
         "forks": 83,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -372,7 +372,7 @@
         }
       ],
       "github": {
-        "stars": 574,
+        "stars": 575,
         "openIssues": 46,
         "forks": 55,
         "lastUpdated": "2026-06-16T15:12:23Z",
@@ -508,8 +508,8 @@
         }
       ],
       "github": {
-        "stars": 17905,
-        "openIssues": 541,
+        "stars": 17916,
+        "openIssues": 542,
         "forks": 1169,
         "lastUpdated": "2026-07-09T04:58:15Z",
         "license": "GPL-3.0"
@@ -553,8 +553,8 @@
         }
       ],
       "github": {
-        "stars": 210,
-        "openIssues": 11,
+        "stars": 212,
+        "openIssues": 10,
         "forks": 16,
         "lastUpdated": "2026-07-14T12:40:28Z",
         "license": "GPL-3.0"
@@ -603,9 +603,9 @@
         }
       ],
       "github": {
-        "stars": 1427,
+        "stars": 1428,
         "openIssues": 67,
-        "forks": 70,
+        "forks": 71,
         "lastUpdated": "2026-05-31T09:01:37Z",
         "license": "GPL-3.0"
       }

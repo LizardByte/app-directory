@@ -1,0 +1,47 @@
+{
+  "id": "moonlight-psp",
+  "name": "Moonlight for PlayStation Portable (PSP)",
+  "tagline": "NVIDIA GameStream & Sunshine client for PlayStation Portable (PSP-1000/2000/3000/Go/E1000)",
+  "description": "Moonlight PSP is a Moonlight-compatible game-streaming client for Sony PSP systems, designed around a custom PSP-native networking, decode, audio, input, and rendering stack. It streams H.264 video from a host PC running Sunshine or Apollo, leveraging Media Engine (ME) hardware decoding for low-latency gameplay.",
+  "category": "client",
+  "platforms": [
+    "handheld"
+  ],
+  "icon": "https://raw.githubusercontent.com/k4idyn/Moonlight-PSP/main/ICON0.PNG",
+  "screenshots": [
+    "https://www.gamebrew.org/images/8/87/MoonlightPSP.png",
+    "https://www.gamebrew.org/images/b/b5/MoonlightPSP4.png",
+    "https://www.gamebrew.org/images/0/05/MoonlightPSP5.png"
+  ],
+  "links": {
+    "github": "https://github.com/k4idyn/Moonlight-PSP",
+    "download": "https://github.com/k4idyn/Moonlight-PSP/releases/latest",
+    "documentation": "https://www.gamebrew.org/wiki/Moonlight_PSP"
+  },
+  "official": false,
+  "tags": [
+    "streaming",
+    "psp",
+    "playstation-portable",
+    "handheld",
+    "gaming",
+    "moonlight",
+    "gamebrew"
+  ],
+  "compatibility": {
+    "sunshine": ">=0.1.0"
+  },
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/playstation.svg",
+      "alt": "PlayStation Portable",
+      "invert": true
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Download Latest Release on GitHub",
+      "url": "https://github.com/k4idyn/Moonlight-PSP/releases/latest"
+    }
+  ]
+}

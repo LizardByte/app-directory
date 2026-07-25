@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-07-25T13:43:09.039Z",
+  "updated": "2026-07-25T21:03:47.347Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -191,7 +191,7 @@
         "stars": 1586,
         "openIssues": 82,
         "forks": 101,
-        "lastUpdated": "2026-07-14T19:39:18Z",
+        "lastUpdated": "2026-07-25T18:23:43Z",
         "license": "GPL-3.0"
       }
     },
@@ -564,9 +564,9 @@
         }
       ],
       "github": {
-        "stars": 18011,
+        "stars": 18017,
         "openIssues": 543,
-        "forks": 1184,
+        "forks": 1185,
         "lastUpdated": "2026-07-23T03:09:05Z",
         "license": "GPL-3.0"
       }
@@ -609,7 +609,7 @@
         }
       ],
       "github": {
-        "stars": 218,
+        "stars": 219,
         "openIssues": 4,
         "forks": 18,
         "lastUpdated": "2026-07-21T09:36:05Z",

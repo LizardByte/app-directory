@@ -1,6 +1,16 @@
-# LizardByte App Directory
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/LizardByte/.github/refs/heads/master/branding/logos/logo.svg"
+    alt="LizardByte icon"
+    width="256"
+  />
+  <h1 align="center">LizardByte App Directory</h1>
+  <h4 align="center">A centralized directory of featured applications, clients, tools, and integrations for LizardByte projects.</h4>
+</div>
 
-A centralized directory of featured applications, clients, tools, and integrations for LizardByte projects.
+<div align="center">
+  <a href="https://sonarcloud.io/project/overview?id=LizardByte_app-directory"><img src="https://img.shields.io/sonar/quality_gate/LizardByte_app-directory.svg?server=https%3A%2F%2Fsonarcloud.io&style=for-the-badge&logo=sonarqubecloud&label=sonarcloud" alt="SonarCloud"></a>
+</div>
 
 ## Repository Structure
 

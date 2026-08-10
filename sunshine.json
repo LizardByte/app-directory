@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-08-09T01:10:42.744Z",
+  "updated": "2026-08-10T01:13:01.774Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -116,9 +116,9 @@
         }
       ],
       "github": {
-        "stars": 6942,
+        "stars": 6946,
         "openIssues": 397,
-        "forks": 1391,
+        "forks": 1392,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -188,9 +188,9 @@
         }
       ],
       "github": {
-        "stars": 1595,
+        "stars": 1596,
         "openIssues": 88,
-        "forks": 107,
+        "forks": 108,
         "lastUpdated": "2026-07-26T19:39:21Z",
         "license": "GPL-3.0"
       }
@@ -428,7 +428,7 @@
         }
       ],
       "github": {
-        "stars": 580,
+        "stars": 582,
         "openIssues": 38,
         "forks": 57,
         "lastUpdated": "2026-08-02T13:57:51Z",
@@ -502,7 +502,7 @@
       "github": {
         "stars": 1625,
         "openIssues": 173,
-        "forks": 507,
+        "forks": 509,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -564,9 +564,9 @@
         }
       ],
       "github": {
-        "stars": 18204,
-        "openIssues": 547,
-        "forks": 1215,
+        "stars": 18213,
+        "openIssues": 548,
+        "forks": 1216,
         "lastUpdated": "2026-08-07T03:23:30Z",
         "license": "GPL-3.0"
       }
@@ -609,7 +609,7 @@
         }
       ],
       "github": {
-        "stars": 234,
+        "stars": 236,
         "openIssues": 8,
         "forks": 20,
         "lastUpdated": "2026-08-07T09:43:28Z",
@@ -659,10 +659,10 @@
         }
       ],
       "github": {
-        "stars": 1450,
-        "openIssues": 70,
+        "stars": 1451,
+        "openIssues": 72,
         "forks": 76,
-        "lastUpdated": "2026-08-04T09:03:01Z",
+        "lastUpdated": "2026-08-09T12:25:41Z",
         "license": "GPL-3.0"
       }
     }

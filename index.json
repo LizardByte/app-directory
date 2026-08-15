@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-08-14T01:20:12.260Z",
+  "updated": "2026-08-15T00:51:41.245Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -111,9 +111,9 @@
         }
       ],
       "github": {
-        "stars": 6963,
+        "stars": 6965,
         "openIssues": 397,
-        "forks": 1404,
+        "forks": 1405,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -279,7 +279,7 @@
         }
       ],
       "github": {
-        "stars": 52,
+        "stars": 53,
         "openIssues": 1,
         "forks": 4,
         "lastUpdated": "2026-07-24T17:14:08Z",
@@ -424,9 +424,9 @@
       ],
       "github": {
         "stars": 583,
-        "openIssues": 39,
+        "openIssues": 37,
         "forks": 58,
-        "lastUpdated": "2026-08-13T11:26:39Z",
+        "lastUpdated": "2026-08-14T18:35:41Z",
         "license": "GPL-3.0"
       }
     },
@@ -495,9 +495,9 @@
         }
       ],
       "github": {
-        "stars": 1631,
+        "stars": 1633,
         "openIssues": 173,
-        "forks": 514,
+        "forks": 516,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -559,9 +559,9 @@
         }
       ],
       "github": {
-        "stars": 18274,
-        "openIssues": 549,
-        "forks": 1225,
+        "stars": 18281,
+        "openIssues": 551,
+        "forks": 1234,
         "lastUpdated": "2026-08-07T03:23:30Z",
         "license": "GPL-3.0"
       }
@@ -604,10 +604,10 @@
         }
       ],
       "github": {
-        "stars": 238,
-        "openIssues": 10,
+        "stars": 239,
+        "openIssues": 9,
         "forks": 21,
-        "lastUpdated": "2026-08-13T10:53:36Z",
+        "lastUpdated": "2026-08-14T18:50:14Z",
         "license": "GPL-3.0"
       }
     },
@@ -655,7 +655,7 @@
       ],
       "github": {
         "stars": 1453,
-        "openIssues": 68,
+        "openIssues": 69,
         "forks": 77,
         "lastUpdated": "2026-08-10T05:28:35Z",
         "license": "GPL-3.0"

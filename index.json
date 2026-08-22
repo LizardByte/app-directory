@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-08-21T15:15:59.275Z",
+  "updated": "2026-08-22T00:51:36.683Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -40,14 +40,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/irtimmer/moonlight-embedded/wiki/Packages"
         }
-      ],
-      "github": {
-        "stars": 1655,
-        "openIssues": 121,
-        "forks": 380,
-        "lastUpdated": "2026-06-06T03:28:35Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-android",
@@ -109,14 +102,7 @@
           "url": "https://f-droid.org/packages/com.limelight",
           "img": "https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
         }
-      ],
-      "github": {
-        "stars": 6986,
-        "openIssues": 397,
-        "forks": 1432,
-        "lastUpdated": "2024-07-27T22:09:42Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-switch",
@@ -380,7 +366,7 @@
         "stars": 301,
         "openIssues": 46,
         "forks": 20,
-        "lastUpdated": "2026-03-18T15:31:38Z",
+        "lastUpdated": "2026-03-18T15:38:28Z",
         "license": "GPL-3.0"
       }
     },
@@ -423,7 +409,7 @@
         }
       ],
       "github": {
-        "stars": 583,
+        "stars": 584,
         "openIssues": 38,
         "forks": 59,
         "lastUpdated": "2026-08-18T10:56:06Z",
@@ -493,14 +479,7 @@
           "url": "https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566",
           "img": "https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-apple-tv.svg"
         }
-      ],
-      "github": {
-        "stars": 1638,
-        "openIssues": 173,
-        "forks": 524,
-        "lastUpdated": "2025-10-09T02:56:42Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-qt",
@@ -559,9 +538,9 @@
         }
       ],
       "github": {
-        "stars": 18341,
+        "stars": 18347,
         "openIssues": 552,
-        "forks": 1248,
+        "forks": 1249,
         "lastUpdated": "2026-08-19T03:26:07Z",
         "license": "GPL-3.0"
       }
@@ -605,7 +584,7 @@
       ],
       "github": {
         "stars": 249,
-        "openIssues": 13,
+        "openIssues": 16,
         "forks": 21,
         "lastUpdated": "2026-08-19T15:53:37Z",
         "license": "GPL-3.0"

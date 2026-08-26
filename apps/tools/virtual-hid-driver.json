@@ -1,0 +1,45 @@
+{
+  "id": "virtual-hid-driver",
+  "name": "Virtual HID Driver",
+  "tagline": "User-mode virtual gamepads and Raw Input mice for Windows",
+  "description": "Virtual HID Driver is the Windows backend for libvirtualhid, enabling compatible applications to create virtual HID gamepads and Raw Input-visible mice through a user-mode UMDF2 driver backed by Windows Virtual HID Framework.",
+  "category": "tool",
+  "platforms": [
+    "windows"
+  ],
+  "icon": "https://raw.githubusercontent.com/LizardByte/libvirtualhid/master/libvirtualhid-256.png",
+  "links": {
+    "website": "https://app.lizardbyte.dev/libvirtualhid/virtual-hid-driver/",
+    "github": "https://github.com/LizardByte/libvirtualhid",
+    "download": "https://github.com/LizardByte/libvirtualhid/releases/latest",
+    "documentation": "https://docs.lizardbyte.dev/projects/libvirtualhid"
+  },
+  "official": true,
+  "tags": [
+    "driver",
+    "virtual-hid",
+    "gamepad",
+    "mouse",
+    "windows"
+  ],
+  "compatibility": {
+    "sunshine": ">=2026.816.192458"
+  },
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/windows.svg",
+      "alt": "Windows",
+      "invert": true
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Download on GitHub",
+      "url": "https://github.com/LizardByte/libvirtualhid/releases"
+    },
+    {
+      "label": "Buy a Windows license",
+      "url": "https://buy.polar.sh/polar_cl_zj6Io5NVukXfZSl97ULtFvImfI5L1jbL2cSnc0Y72Pt"
+    }
+  ]
+}

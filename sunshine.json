@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-08-26T18:29:52.649Z",
+  "updated": "2026-08-27T06:37:57.676Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -116,9 +116,9 @@
         }
       ],
       "github": {
-        "stars": 7016,
+        "stars": 7020,
         "openIssues": 396,
-        "forks": 1442,
+        "forks": 1444,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -188,7 +188,7 @@
         }
       ],
       "github": {
-        "stars": 1614,
+        "stars": 1615,
         "openIssues": 90,
         "forks": 109,
         "lastUpdated": "2026-07-26T19:39:21Z",
@@ -337,7 +337,7 @@
         }
       ],
       "github": {
-        "stars": 808,
+        "stars": 809,
         "openIssues": 76,
         "forks": 84,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -431,7 +431,7 @@
         "stars": 585,
         "openIssues": 38,
         "forks": 59,
-        "lastUpdated": "2026-08-26T17:37:58Z",
+        "lastUpdated": "2026-08-26T21:40:30Z",
         "license": "GPL-3.0"
       }
     },
@@ -500,9 +500,9 @@
         }
       ],
       "github": {
-        "stars": 1642,
+        "stars": 1643,
         "openIssues": 173,
-        "forks": 523,
+        "forks": 524,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -564,9 +564,9 @@
         }
       ],
       "github": {
-        "stars": 18406,
+        "stars": 18416,
         "openIssues": 557,
-        "forks": 1267,
+        "forks": 1268,
         "lastUpdated": "2026-08-26T06:31:31Z",
         "license": "GPL-3.0"
       }
@@ -609,7 +609,7 @@
         }
       ],
       "github": {
-        "stars": 254,
+        "stars": 255,
         "openIssues": 26,
         "forks": 21,
         "lastUpdated": "2026-08-19T15:53:37Z",
@@ -659,7 +659,7 @@
         }
       ],
       "github": {
-        "stars": 1462,
+        "stars": 1463,
         "openIssues": 71,
         "forks": 77,
         "lastUpdated": "2026-08-22T02:00:18Z",
@@ -712,9 +712,9 @@
       ],
       "github": {
         "stars": 15,
-        "openIssues": 13,
+        "openIssues": 16,
         "forks": 8,
-        "lastUpdated": "2026-08-24T12:40:30Z",
+        "lastUpdated": "2026-08-26T20:24:22Z",
         "license": "NOASSERTION"
       }
     }

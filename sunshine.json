@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-08-30T03:22:51.578Z",
+  "updated": "2026-08-31T02:52:50.896Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -47,7 +47,7 @@
         }
       ],
       "github": {
-        "stars": 1657,
+        "stars": 1658,
         "openIssues": 121,
         "forks": 383,
         "lastUpdated": "2026-06-06T03:28:35Z",
@@ -116,9 +116,9 @@
         }
       ],
       "github": {
-        "stars": 7029,
+        "stars": 7034,
         "openIssues": 397,
-        "forks": 1457,
+        "forks": 1462,
         "lastUpdated": "2024-07-27T22:09:42Z",
         "license": "GPL-3.0"
       }
@@ -188,7 +188,7 @@
         }
       ],
       "github": {
-        "stars": 1619,
+        "stars": 1620,
         "openIssues": 90,
         "forks": 111,
         "lastUpdated": "2026-07-26T19:39:21Z",
@@ -234,7 +234,7 @@
       ],
       "github": {
         "stars": 213,
-        "openIssues": 43,
+        "openIssues": 44,
         "forks": 31,
         "lastUpdated": "2026-02-14T23:22:38Z",
         "license": "GPL-3.0"
@@ -284,7 +284,7 @@
         }
       ],
       "github": {
-        "stars": 57,
+        "stars": 58,
         "openIssues": 1,
         "forks": 4,
         "lastUpdated": "2026-07-24T17:14:08Z",
@@ -337,7 +337,7 @@
         }
       ],
       "github": {
-        "stars": 810,
+        "stars": 811,
         "openIssues": 76,
         "forks": 84,
         "lastUpdated": "2025-11-16T03:12:44Z",
@@ -383,7 +383,7 @@
       ],
       "github": {
         "stars": 302,
-        "openIssues": 46,
+        "openIssues": 47,
         "forks": 21,
         "lastUpdated": "2026-03-18T15:31:38Z",
         "license": "GPL-3.0"
@@ -500,9 +500,9 @@
         }
       ],
       "github": {
-        "stars": 1643,
+        "stars": 1645,
         "openIssues": 173,
-        "forks": 531,
+        "forks": 533,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -564,10 +564,10 @@
         }
       ],
       "github": {
-        "stars": 18452,
-        "openIssues": 559,
-        "forks": 1275,
-        "lastUpdated": "2026-08-26T06:31:31Z",
+        "stars": 18461,
+        "openIssues": 558,
+        "forks": 1274,
+        "lastUpdated": "2026-08-30T21:35:32Z",
         "license": "GPL-3.0"
       }
     },
@@ -609,7 +609,7 @@
         }
       ],
       "github": {
-        "stars": 258,
+        "stars": 259,
         "openIssues": 26,
         "forks": 21,
         "lastUpdated": "2026-08-19T15:53:37Z",
@@ -660,7 +660,7 @@
       ],
       "github": {
         "stars": 1464,
-        "openIssues": 71,
+        "openIssues": 72,
         "forks": 78,
         "lastUpdated": "2026-08-22T02:00:18Z",
         "license": "GPL-3.0"
@@ -711,10 +711,10 @@
         }
       ],
       "github": {
-        "stars": 20,
-        "openIssues": 14,
+        "stars": 21,
+        "openIssues": 15,
         "forks": 9,
-        "lastUpdated": "2026-08-29T23:38:54Z",
+        "lastUpdated": "2026-08-30T18:42:21Z",
         "license": "NOASSERTION"
       }
     }

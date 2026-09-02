@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-09-01T03:02:28.027Z",
+  "updated": "2026-09-02T02:21:38.499Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -49,7 +49,7 @@
       "github": {
         "stars": 1658,
         "openIssues": 121,
-        "forks": 384,
+        "forks": 385,
         "lastUpdated": "2026-06-06T03:28:35Z",
         "license": "GPL-3.0"
       }
@@ -116,10 +116,10 @@
         }
       ],
       "github": {
-        "stars": 7040,
-        "openIssues": 397,
-        "forks": 1464,
-        "lastUpdated": "2024-07-27T22:09:42Z",
+        "stars": 7042,
+        "openIssues": 386,
+        "forks": 1465,
+        "lastUpdated": "2026-09-02T02:20:38Z",
         "license": "GPL-3.0"
       }
     },
@@ -188,7 +188,7 @@
         }
       ],
       "github": {
-        "stars": 1620,
+        "stars": 1622,
         "openIssues": 90,
         "forks": 111,
         "lastUpdated": "2026-07-26T19:39:21Z",
@@ -285,7 +285,7 @@
       ],
       "github": {
         "stars": 59,
-        "openIssues": 1,
+        "openIssues": 0,
         "forks": 4,
         "lastUpdated": "2026-07-24T17:14:08Z",
         "license": "NOASSERTION"
@@ -428,7 +428,7 @@
         }
       ],
       "github": {
-        "stars": 587,
+        "stars": 588,
         "openIssues": 41,
         "forks": 60,
         "lastUpdated": "2026-08-27T16:07:33Z",
@@ -500,9 +500,9 @@
         }
       ],
       "github": {
-        "stars": 1649,
-        "openIssues": 173,
-        "forks": 534,
+        "stars": 1651,
+        "openIssues": 172,
+        "forks": 535,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -564,9 +564,9 @@
         }
       ],
       "github": {
-        "stars": 18476,
-        "openIssues": 561,
-        "forks": 1276,
+        "stars": 18485,
+        "openIssues": 563,
+        "forks": 1279,
         "lastUpdated": "2026-08-30T21:35:32Z",
         "license": "GPL-3.0"
       }
@@ -659,7 +659,7 @@
         }
       ],
       "github": {
-        "stars": 1464,
+        "stars": 1465,
         "openIssues": 72,
         "forks": 78,
         "lastUpdated": "2026-08-22T02:00:18Z",
@@ -711,7 +711,7 @@
         }
       ],
       "github": {
-        "stars": 24,
+        "stars": 25,
         "openIssues": 13,
         "forks": 10,
         "lastUpdated": "2026-09-01T01:16:32Z",

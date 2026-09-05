@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-09-05T02:25:28.297Z",
+  "updated": "2026-09-05T16:20:13.289Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -111,9 +111,9 @@
         }
       ],
       "github": {
-        "stars": 7052,
+        "stars": 7058,
         "openIssues": 387,
-        "forks": 1476,
+        "forks": 1480,
         "lastUpdated": "2026-09-03T03:00:09Z",
         "license": "GPL-3.0"
       }
@@ -279,7 +279,7 @@
         }
       ],
       "github": {
-        "stars": 59,
+        "stars": 60,
         "openIssues": 0,
         "forks": 4,
         "lastUpdated": "2026-07-24T17:14:08Z",
@@ -495,7 +495,7 @@
         }
       ],
       "github": {
-        "stars": 1653,
+        "stars": 1654,
         "openIssues": 172,
         "forks": 538,
         "lastUpdated": "2025-10-09T02:56:42Z",
@@ -559,10 +559,10 @@
         }
       ],
       "github": {
-        "stars": 18526,
+        "stars": 18537,
         "openIssues": 557,
-        "forks": 1284,
-        "lastUpdated": "2026-09-03T05:24:33Z",
+        "forks": 1285,
+        "lastUpdated": "2026-09-05T05:21:22Z",
         "license": "GPL-3.0"
       }
     },
@@ -706,10 +706,10 @@
         }
       ],
       "github": {
-        "stars": 28,
-        "openIssues": 13,
+        "stars": 29,
+        "openIssues": 14,
         "forks": 10,
-        "lastUpdated": "2026-09-01T01:16:32Z",
+        "lastUpdated": "2026-09-05T15:03:36Z",
         "license": "NOASSERTION"
       }
     }

@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-09-07T13:59:00.052Z",
+  "updated": "2026-09-08T02:30:56.171Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -45,14 +45,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/irtimmer/moonlight-embedded/wiki/Packages"
         }
-      ],
-      "github": {
-        "stars": 1658,
-        "openIssues": 121,
-        "forks": 385,
-        "lastUpdated": "2026-06-06T03:28:35Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-android",
@@ -114,14 +107,7 @@
           "url": "https://f-droid.org/packages/com.limelight",
           "img": "https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
         }
-      ],
-      "github": {
-        "stars": 7073,
-        "openIssues": 387,
-        "forks": 1486,
-        "lastUpdated": "2026-09-03T03:00:09Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-switch",
@@ -186,14 +172,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/XITRIX/Moonlight-Switch/releases"
         }
-      ],
-      "github": {
-        "stars": 1628,
-        "openIssues": 89,
-        "forks": 111,
-        "lastUpdated": "2026-07-26T19:39:21Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-wiiu",
@@ -231,14 +210,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/GaryOderNichts/moonlight-wiiu#quick-start"
         }
-      ],
-      "github": {
-        "stars": 213,
-        "openIssues": 44,
-        "forks": 31,
-        "lastUpdated": "2026-02-14T23:22:38Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-psp",
@@ -282,14 +254,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/k4idyn/Moonlight-PSP/releases"
         }
-      ],
-      "github": {
-        "stars": 60,
-        "openIssues": 0,
-        "forks": 4,
-        "lastUpdated": "2026-07-24T17:14:08Z",
-        "license": "NOASSERTION"
-      }
+      ]
     },
     {
       "id": "moonlight-vita",
@@ -335,14 +300,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/xyzz/vita-moonlight/releases"
         }
-      ],
-      "github": {
-        "stars": 811,
-        "openIssues": 76,
-        "forks": 84,
-        "lastUpdated": "2025-11-16T03:12:44Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-n3ds",
@@ -380,14 +338,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/zoeyjodon/moonlight-N3DS"
         }
-      ],
-      "github": {
-        "stars": 306,
-        "openIssues": 47,
-        "forks": 21,
-        "lastUpdated": "2026-03-18T15:31:38Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-xbox",
@@ -431,7 +382,7 @@
         "stars": 591,
         "openIssues": 41,
         "forks": 60,
-        "lastUpdated": "2026-08-27T16:07:33Z",
+        "lastUpdated": "2026-09-07T15:00:21Z",
         "license": "GPL-3.0"
       }
     },
@@ -498,14 +449,7 @@
           "url": "https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566",
           "img": "https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-apple-tv.svg"
         }
-      ],
-      "github": {
-        "stars": 1654,
-        "openIssues": 172,
-        "forks": 541,
-        "lastUpdated": "2025-10-09T02:56:42Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-qt",
@@ -562,14 +506,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/moonlight-stream/moonlight-qt/releases"
         }
-      ],
-      "github": {
-        "stars": 18555,
-        "openIssues": 557,
-        "forks": 1289,
-        "lastUpdated": "2026-09-07T05:07:10Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-tizen",
@@ -607,14 +544,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/brightcraft/moonlight-tizen/releases"
         }
-      ],
-      "github": {
-        "stars": 266,
-        "openIssues": 19,
-        "forks": 21,
-        "lastUpdated": "2026-09-07T13:11:49Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-tv",
@@ -657,14 +587,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/mariotaku/moonlight-tv#download"
         }
-      ],
-      "github": {
-        "stars": 1468,
-        "openIssues": 76,
-        "forks": 78,
-        "lastUpdated": "2026-09-07T03:36:18Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "virtual-hid-driver",
@@ -711,9 +634,9 @@
         }
       ],
       "github": {
-        "stars": 29,
+        "stars": 32,
         "openIssues": 13,
-        "forks": 10,
+        "forks": 11,
         "lastUpdated": "2026-09-05T23:00:20Z",
         "license": "NOASSERTION"
       }

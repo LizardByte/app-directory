@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-09-09T02:32:52.976Z",
+  "updated": "2026-09-10T02:33:55.796Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -111,9 +111,9 @@
         }
       ],
       "github": {
-        "stars": 7079,
+        "stars": 7085,
         "openIssues": 387,
-        "forks": 1489,
+        "forks": 1491,
         "lastUpdated": "2026-09-03T03:00:09Z",
         "license": "GPL-3.0"
       }
@@ -183,7 +183,7 @@
         }
       ],
       "github": {
-        "stars": 1629,
+        "stars": 1630,
         "openIssues": 89,
         "forks": 111,
         "lastUpdated": "2026-07-26T19:39:21Z",
@@ -281,7 +281,7 @@
       "github": {
         "stars": 60,
         "openIssues": 0,
-        "forks": 5,
+        "forks": 4,
         "lastUpdated": "2026-07-24T17:14:08Z",
         "license": "NOASSERTION"
       }
@@ -497,7 +497,7 @@
       "github": {
         "stars": 1654,
         "openIssues": 172,
-        "forks": 543,
+        "forks": 545,
         "lastUpdated": "2025-10-09T02:56:42Z",
         "license": "GPL-3.0"
       }
@@ -559,10 +559,10 @@
         }
       ],
       "github": {
-        "stars": 18569,
-        "openIssues": 559,
-        "forks": 1296,
-        "lastUpdated": "2026-09-07T05:07:10Z",
+        "stars": 18584,
+        "openIssues": 561,
+        "forks": 1299,
+        "lastUpdated": "2026-09-09T04:49:33Z",
         "license": "GPL-3.0"
       }
     },
@@ -604,7 +604,7 @@
         }
       ],
       "github": {
-        "stars": 267,
+        "stars": 268,
         "openIssues": 14,
         "forks": 21,
         "lastUpdated": "2026-09-08T13:24:18Z",
@@ -654,9 +654,9 @@
         }
       ],
       "github": {
-        "stars": 1469,
-        "openIssues": 76,
-        "forks": 78,
+        "stars": 1470,
+        "openIssues": 77,
+        "forks": 79,
         "lastUpdated": "2026-09-07T03:36:18Z",
         "license": "GPL-3.0"
       }
@@ -706,9 +706,9 @@
         }
       ],
       "github": {
-        "stars": 35,
+        "stars": 36,
         "openIssues": 13,
-        "forks": 12,
+        "forks": 13,
         "lastUpdated": "2026-09-08T19:26:26Z",
         "license": "NOASSERTION"
       }

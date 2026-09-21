@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-09-21T02:47:28.161Z",
+  "updated": "2026-09-21T14:47:20.649Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -40,14 +40,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/irtimmer/moonlight-embedded/wiki/Packages"
         }
-      ],
-      "github": {
-        "stars": 1659,
-        "openIssues": 121,
-        "forks": 390,
-        "lastUpdated": "2026-06-06T03:28:35Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-android",
@@ -109,14 +102,7 @@
           "url": "https://f-droid.org/packages/com.limelight",
           "img": "https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
         }
-      ],
-      "github": {
-        "stars": 7145,
-        "openIssues": 395,
-        "forks": 1524,
-        "lastUpdated": "2026-09-12T19:22:35Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-switch",
@@ -183,7 +169,7 @@
         }
       ],
       "github": {
-        "stars": 1639,
+        "stars": 1640,
         "openIssues": 89,
         "forks": 114,
         "lastUpdated": "2026-07-26T19:39:21Z",
@@ -493,14 +479,7 @@
           "url": "https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566",
           "img": "https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-apple-tv.svg"
         }
-      ],
-      "github": {
-        "stars": 1667,
-        "openIssues": 174,
-        "forks": 559,
-        "lastUpdated": "2025-10-09T02:56:42Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-qt",
@@ -559,9 +538,9 @@
         }
       ],
       "github": {
-        "stars": 18711,
-        "openIssues": 561,
-        "forks": 1325,
+        "stars": 18715,
+        "openIssues": 562,
+        "forks": 1327,
         "lastUpdated": "2026-09-20T20:23:43Z",
         "license": "GPL-3.0"
       }
@@ -604,10 +583,10 @@
         }
       ],
       "github": {
-        "stars": 275,
-        "openIssues": 10,
-        "forks": 27,
-        "lastUpdated": "2026-09-15T13:36:14Z",
+        "stars": 277,
+        "openIssues": 7,
+        "forks": 28,
+        "lastUpdated": "2026-09-21T12:32:22Z",
         "license": "GPL-3.0"
       }
     },
@@ -707,8 +686,8 @@
       ],
       "github": {
         "stars": 59,
-        "openIssues": 15,
-        "forks": 16,
+        "openIssues": 18,
+        "forks": 17,
         "lastUpdated": "2026-09-21T00:44:04Z",
         "license": "NOASSERTION"
       }

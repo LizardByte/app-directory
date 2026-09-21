@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-09-21T14:47:20.649Z",
+  "updated": "2026-09-21T14:47:50.617Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -167,14 +167,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/XITRIX/Moonlight-Switch/releases"
         }
-      ],
-      "github": {
-        "stars": 1640,
-        "openIssues": 89,
-        "forks": 114,
-        "lastUpdated": "2026-07-26T19:39:21Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-wiiu",
@@ -212,14 +205,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/GaryOderNichts/moonlight-wiiu#quick-start"
         }
-      ],
-      "github": {
-        "stars": 214,
-        "openIssues": 44,
-        "forks": 31,
-        "lastUpdated": "2026-02-14T23:22:38Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-psp",
@@ -263,14 +249,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/k4idyn/Moonlight-PSP/releases"
         }
-      ],
-      "github": {
-        "stars": 62,
-        "openIssues": 0,
-        "forks": 4,
-        "lastUpdated": "2026-07-24T17:14:08Z",
-        "license": "NOASSERTION"
-      }
+      ]
     },
     {
       "id": "moonlight-vita",
@@ -316,14 +295,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/xyzz/vita-moonlight/releases"
         }
-      ],
-      "github": {
-        "stars": 814,
-        "openIssues": 76,
-        "forks": 85,
-        "lastUpdated": "2025-11-16T03:12:44Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-n3ds",
@@ -361,14 +333,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/zoeyjodon/moonlight-N3DS"
         }
-      ],
-      "github": {
-        "stars": 308,
-        "openIssues": 47,
-        "forks": 22,
-        "lastUpdated": "2026-03-18T15:31:38Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-xbox",
@@ -407,14 +372,7 @@
           "url": "https://apps.microsoft.com/store/detail/moonlight-uwp/9MW1BS08ZBTH",
           "img": "https://get.microsoft.com/images/en-us%20dark.svg"
         }
-      ],
-      "github": {
-        "stars": 595,
-        "openIssues": 37,
-        "forks": 61,
-        "lastUpdated": "2026-09-15T13:47:00Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-ios",
@@ -536,14 +494,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/moonlight-stream/moonlight-qt/releases"
         }
-      ],
-      "github": {
-        "stars": 18715,
-        "openIssues": 562,
-        "forks": 1327,
-        "lastUpdated": "2026-09-20T20:23:43Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-tizen",
@@ -581,14 +532,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/brightcraft/moonlight-tizen/releases"
         }
-      ],
-      "github": {
-        "stars": 277,
-        "openIssues": 7,
-        "forks": 28,
-        "lastUpdated": "2026-09-21T12:32:22Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "moonlight-tv",
@@ -631,14 +575,7 @@
           "label": "Download on GitHub",
           "url": "https://github.com/mariotaku/moonlight-tv#download"
         }
-      ],
-      "github": {
-        "stars": 1478,
-        "openIssues": 79,
-        "forks": 81,
-        "lastUpdated": "2026-09-17T15:24:42Z",
-        "license": "GPL-3.0"
-      }
+      ]
     },
     {
       "id": "virtual-hid-driver",
@@ -683,14 +620,7 @@
           "label": "Buy a Windows license",
           "url": "https://buy.polar.sh/polar_cl_zj6Io5NVukXfZSl97ULtFvImfI5L1jbL2cSnc0Y72Pt"
         }
-      ],
-      "github": {
-        "stars": 59,
-        "openIssues": 18,
-        "forks": 17,
-        "lastUpdated": "2026-09-21T00:44:04Z",
-        "license": "NOASSERTION"
-      }
+      ]
     }
   ],
   "categories": [

@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-10-09T04:02:48.794Z",
+  "updated": "2026-10-09T12:33:51.619Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -116,9 +116,9 @@
         }
       ],
       "github": {
-        "stars": 7249,
-        "openIssues": 403,
-        "forks": 1610,
+        "stars": 7253,
+        "openIssues": 404,
+        "forks": 1613,
         "lastUpdated": "2026-09-12T19:22:35Z",
         "license": "GPL-3.0"
       }
@@ -156,7 +156,7 @@
       },
       "icons": [
         {
-          "src": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/nintendo-switch.svg",
+          "src": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.2/icons/nintendo-switch.svg",
           "alt": "Nintendo Switch",
           "invert": true
         },
@@ -188,9 +188,9 @@
         }
       ],
       "github": {
-        "stars": 1657,
+        "stars": 1658,
         "openIssues": 90,
-        "forks": 114,
+        "forks": 115,
         "lastUpdated": "2026-07-26T19:39:21Z",
         "license": "GPL-3.0"
       }
@@ -284,7 +284,7 @@
         }
       ],
       "github": {
-        "stars": 71,
+        "stars": 72,
         "openIssues": 0,
         "forks": 4,
         "lastUpdated": "2026-10-05T05:01:33Z",
@@ -415,7 +415,7 @@
       },
       "icons": [
         {
-          "src": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/xbox.svg",
+          "src": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.2/icons/xbox.svg",
           "alt": "Xbox",
           "invert": true
         }
@@ -500,7 +500,7 @@
         }
       ],
       "github": {
-        "stars": 1685,
+        "stars": 1686,
         "openIssues": 177,
         "forks": 581,
         "lastUpdated": "2026-09-26T21:07:06Z",
@@ -547,7 +547,7 @@
           "invert": true
         },
         {
-          "src": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/windows.svg",
+          "src": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.2/icons/windows.svg",
           "alt": "Windows",
           "invert": true
         },
@@ -564,9 +564,9 @@
         }
       ],
       "github": {
-        "stars": 18996,
-        "openIssues": 562,
-        "forks": 1395,
+        "stars": 19007,
+        "openIssues": 563,
+        "forks": 1396,
         "lastUpdated": "2026-10-08T01:19:06Z",
         "license": "GPL-3.0"
       }
@@ -695,7 +695,7 @@
       },
       "icons": [
         {
-          "src": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/windows.svg",
+          "src": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.2/icons/windows.svg",
           "alt": "Windows",
           "invert": true
         }
@@ -712,7 +712,7 @@
       ],
       "github": {
         "stars": 76,
-        "openIssues": 20,
+        "openIssues": 22,
         "forks": 21,
         "lastUpdated": "2026-10-09T03:34:57Z",
         "license": "NOASSERTION"

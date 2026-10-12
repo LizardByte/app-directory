@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-10-11T03:21:41.699Z",
+  "updated": "2026-10-12T03:44:43.121Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -40,7 +40,14 @@
           "label": "Download on GitHub",
           "url": "https://github.com/irtimmer/moonlight-embedded/wiki/Packages"
         }
-      ]
+      ],
+      "github": {
+        "stars": 1664,
+        "openIssues": 122,
+        "forks": 393,
+        "lastUpdated": "2026-06-06T03:28:35Z",
+        "license": "GPL-3.0"
+      }
     },
     {
       "id": "moonlight-android",
@@ -102,7 +109,14 @@
           "url": "https://f-droid.org/packages/com.limelight",
           "img": "https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
         }
-      ]
+      ],
+      "github": {
+        "stars": 7270,
+        "openIssues": 405,
+        "forks": 1623,
+        "lastUpdated": "2026-09-12T19:22:35Z",
+        "license": "GPL-3.0"
+      }
     },
     {
       "id": "moonlight-switch",
@@ -169,9 +183,9 @@
         }
       ],
       "github": {
-        "stars": 1659,
+        "stars": 1661,
         "openIssues": 90,
-        "forks": 115,
+        "forks": 116,
         "lastUpdated": "2026-07-26T19:39:21Z",
         "license": "GPL-3.0"
       }
@@ -265,9 +279,9 @@
         }
       ],
       "github": {
-        "stars": 73,
+        "stars": 74,
         "openIssues": 0,
-        "forks": 4,
+        "forks": 6,
         "lastUpdated": "2026-10-05T05:01:33Z",
         "license": "NOASSERTION"
       }
@@ -320,7 +334,7 @@
       "github": {
         "stars": 819,
         "openIssues": 76,
-        "forks": 85,
+        "forks": 86,
         "lastUpdated": "2025-11-16T03:12:44Z",
         "license": "GPL-3.0"
       }
@@ -363,10 +377,10 @@
         }
       ],
       "github": {
-        "stars": 315,
+        "stars": 316,
         "openIssues": 47,
         "forks": 23,
-        "lastUpdated": "2026-08-31T00:03:08Z",
+        "lastUpdated": "2026-03-18T15:31:38Z",
         "license": "GPL-3.0"
       }
     },
@@ -410,7 +424,7 @@
       ],
       "github": {
         "stars": 605,
-        "openIssues": 36,
+        "openIssues": 38,
         "forks": 64,
         "lastUpdated": "2026-09-29T06:45:20Z",
         "license": "GPL-3.0"
@@ -479,7 +493,14 @@
           "url": "https://apps.apple.com/us/app/moonlight-game-streaming/id1000551566",
           "img": "https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-apple-tv.svg"
         }
-      ]
+      ],
+      "github": {
+        "stars": 1686,
+        "openIssues": 177,
+        "forks": 583,
+        "lastUpdated": "2026-09-26T21:07:06Z",
+        "license": "GPL-3.0"
+      }
     },
     {
       "id": "moonlight-qt",
@@ -538,9 +559,9 @@
         }
       ],
       "github": {
-        "stars": 19031,
+        "stars": 19054,
         "openIssues": 564,
-        "forks": 1401,
+        "forks": 1407,
         "lastUpdated": "2026-10-08T01:19:06Z",
         "license": "GPL-3.0"
       }
@@ -583,7 +604,7 @@
         }
       ],
       "github": {
-        "stars": 293,
+        "stars": 294,
         "openIssues": 13,
         "forks": 28,
         "lastUpdated": "2026-10-07T11:23:47Z",
@@ -633,7 +654,7 @@
         }
       ],
       "github": {
-        "stars": 1495,
+        "stars": 1496,
         "openIssues": 85,
         "forks": 90,
         "lastUpdated": "2026-09-17T15:24:42Z",
@@ -687,7 +708,7 @@
       "github": {
         "stars": 78,
         "openIssues": 20,
-        "forks": 22,
+        "forks": 21,
         "lastUpdated": "2026-10-10T13:10:30Z",
         "license": "NOASSERTION"
       }

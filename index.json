@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "updated": "2026-10-12T12:49:57.456Z",
+  "updated": "2026-10-13T04:56:54.164Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -111,9 +111,9 @@
         }
       ],
       "github": {
-        "stars": 7273,
+        "stars": 7278,
         "openIssues": 405,
-        "forks": 1623,
+        "forks": 1625,
         "lastUpdated": "2026-09-12T19:22:35Z",
         "license": "GPL-3.0"
       }
@@ -279,7 +279,7 @@
         }
       ],
       "github": {
-        "stars": 74,
+        "stars": 76,
         "openIssues": 0,
         "forks": 6,
         "lastUpdated": "2026-10-05T05:01:33Z",
@@ -423,7 +423,7 @@
         }
       ],
       "github": {
-        "stars": 605,
+        "stars": 606,
         "openIssues": 38,
         "forks": 64,
         "lastUpdated": "2026-09-29T06:45:20Z",
@@ -495,9 +495,9 @@
         }
       ],
       "github": {
-        "stars": 1685,
+        "stars": 1686,
         "openIssues": 177,
-        "forks": 584,
+        "forks": 585,
         "lastUpdated": "2026-09-26T21:07:06Z",
         "license": "GPL-3.0"
       }
@@ -559,9 +559,9 @@
         }
       ],
       "github": {
-        "stars": 19062,
-        "openIssues": 565,
-        "forks": 1409,
+        "stars": 19076,
+        "openIssues": 564,
+        "forks": 1414,
         "lastUpdated": "2026-10-12T07:31:48Z",
         "license": "GPL-3.0"
       }
@@ -604,10 +604,10 @@
         }
       ],
       "github": {
-        "stars": 294,
-        "openIssues": 10,
-        "forks": 28,
-        "lastUpdated": "2026-10-12T10:10:52Z",
+        "stars": 295,
+        "openIssues": 9,
+        "forks": 29,
+        "lastUpdated": "2026-10-12T18:11:15Z",
         "license": "GPL-3.0"
       }
     },
@@ -654,7 +654,7 @@
         }
       ],
       "github": {
-        "stars": 1496,
+        "stars": 1495,
         "openIssues": 85,
         "forks": 90,
         "lastUpdated": "2026-09-17T15:24:42Z",
@@ -709,7 +709,7 @@
         "stars": 78,
         "openIssues": 20,
         "forks": 21,
-        "lastUpdated": "2026-10-10T13:10:30Z",
+        "lastUpdated": "2026-10-12T23:51:37Z",
         "license": "NOASSERTION"
       }
     }

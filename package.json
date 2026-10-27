@@ -35,7 +35,7 @@
     "ajv-formats": "3.0.1",
     "eslint": "10.13.0",
     "glob": "13.0.6",
-    "npm-run-all2": "9.0.3"
+    "npm-run-all2": "9.0.4"
   },
   "engines": {
     "node": ">=20.0.0"

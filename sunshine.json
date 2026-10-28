@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-10-28T03:30:34.229Z",
+  "updated": "2026-10-28T13:42:43.307Z",
   "apps": [
     {
       "id": "moonlight-embedded",
@@ -116,9 +116,9 @@
         }
       ],
       "github": {
-        "stars": 7372,
+        "stars": 7377,
         "openIssues": 411,
-        "forks": 1686,
+        "forks": 1687,
         "lastUpdated": "2026-09-12T19:22:35Z",
         "license": "GPL-3.0"
       }
@@ -429,9 +429,9 @@
       ],
       "github": {
         "stars": 612,
-        "openIssues": 32,
+        "openIssues": 31,
         "forks": 66,
-        "lastUpdated": "2026-10-27T19:12:04Z",
+        "lastUpdated": "2026-10-28T12:52:44Z",
         "license": "GPL-3.0"
       }
     },
@@ -564,9 +564,9 @@
         }
       ],
       "github": {
-        "stars": 19277,
-        "openIssues": 575,
-        "forks": 1477,
+        "stars": 19285,
+        "openIssues": 577,
+        "forks": 1479,
         "lastUpdated": "2026-10-25T03:41:06Z",
         "license": "GPL-3.0"
       }
@@ -612,7 +612,7 @@
         "stars": 318,
         "openIssues": 2,
         "forks": 33,
-        "lastUpdated": "2026-10-27T11:54:50Z",
+        "lastUpdated": "2026-10-28T12:35:56Z",
         "license": "GPL-3.0"
       }
     },
@@ -659,7 +659,7 @@
         }
       ],
       "github": {
-        "stars": 1519,
+        "stars": 1522,
         "openIssues": 87,
         "forks": 96,
         "lastUpdated": "2026-09-17T15:24:42Z",
@@ -711,10 +711,10 @@
         }
       ],
       "github": {
-        "stars": 94,
-        "openIssues": 24,
+        "stars": 95,
+        "openIssues": 23,
         "forks": 28,
-        "lastUpdated": "2026-10-28T02:36:39Z",
+        "lastUpdated": "2026-10-28T03:34:38Z",
         "license": "NOASSERTION"
       }
     }

@@ -5,7 +5,7 @@
     "name": "Sunshine",
     "description": "Self-hosted game stream host for Moonlight."
   },
-  "updated": "2026-11-10T01:42:36.686Z",
+  "updated": "2026-11-10T01:43:11.357Z",
   "apps": [
     {
       "id": "moonlight-embedded",

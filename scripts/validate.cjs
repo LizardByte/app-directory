@@ -7,7 +7,7 @@
 const Ajv = require('ajv');
 const addFormats = require('ajv-formats');
 const fs = require('node:fs');
-const { glob } = require('glob');
+const { globSync } = require('glob');
 
 const ajv = new Ajv({
   allErrors: true,
@@ -16,14 +16,14 @@ const ajv = new Ajv({
 });
 addFormats(ajv);
 
-async function validateFiles(schemaPath, pattern, label) {
+function validateFiles(schemaPath, pattern, label) {
   console.log(`\nValidating ${label}...`);
 
   const schemaContent = fs.readFileSync(schemaPath, 'utf8');
   const schema = JSON.parse(schemaContent);
   const validate = ajv.compile(schema);
 
-  const files = await glob(pattern);
+  const files = globSync(pattern);
 
   if (files.length === 0) {
     console.log(`  No files found matching ${pattern}`);
@@ -60,7 +60,7 @@ async function validateFiles(schemaPath, pattern, label) {
   return allValid;
 }
 
-async function main() {
+function main() {
   const validations = [
     {
       schema: 'schemas/app.schema.json',
@@ -82,7 +82,7 @@ async function main() {
   let allValid = true;
 
   for (const { schema, pattern, label } of validations) {
-    const result = await validateFiles(schema, pattern, label);
+    const result = validateFiles(schema, pattern, label);
     if (!result) {
       allValid = false;
     }
@@ -99,7 +99,9 @@ async function main() {
   }
 }
 
-main().catch(err => {
+try {
+  main();
+} catch (err) {
   console.error('Error:', err);
   process.exit(1);
-});
+}

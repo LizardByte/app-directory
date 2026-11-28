@@ -91,10 +91,9 @@ async function fetchGitHubMetadata(repoUrl) {
 }
 
 async function loadAllApps() {
-  const apps = [];
   const appFiles = await glob('apps/**/*.json');
 
-  for (const file of appFiles) {
+  const apps = await Promise.all(appFiles.map(async file => {
     try {
       const content = fs.readFileSync(file, 'utf8');
       const app = JSON.parse(content);
@@ -107,24 +106,23 @@ async function loadAllApps() {
       }
 
       // Include ALL fields from the app definition
-      const indexEntry = {
+      return {
         ...app,
         // Add GitHub metadata if available
         ...(githubMetadata && {
           github: githubMetadata,
         }),
       };
-
-      apps.push(indexEntry);
     } catch (err) {
       console.error(`Error processing ${file}:`, err.message);
+      return null;
     }
-  }
+  }));
 
-  return apps;
+  return apps.filter(app => app !== null);
 }
 
-async function buildProjectIndex(projectId, projectConfig, allApps) {
+function buildProjectIndex(projectId, projectConfig, allApps) {
   // Filter apps based on project configuration
   let projectApps = [...allApps];
 
@@ -221,7 +219,7 @@ async function buildIndexes() {
       const projectConfig = JSON.parse(content);
 
       console.log(`\nBuilding index for project: ${projectConfig.name}`);
-      const index = await buildProjectIndex(projectId, projectConfig, allApps);
+      const index = buildProjectIndex(projectId, projectConfig, allApps);
 
       if (index) {
         // Write project-specific index
